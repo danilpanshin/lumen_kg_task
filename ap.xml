@@ -1,0 +1,2401 @@
+
+<yml_catalog date="2019-08-09 03:08">
+    <shop>
+        <name>Radio-Liga</name>
+        <company>Интернет магазин радиостанций</company>
+        <url>http://www.radio-liga.ru/</url>
+        <currencies>
+            <currency id="RUR"/>
+        </currencies>
+        <categories>
+            <category id="544">CI-BI автомобильные радиостанции</category>
+            <category id="499" parentId="544">радиостанции ALAN</category>
+            <category id="513" parentId="544">радиостанции MEGAJET</category>
+            <category id="514" parentId="544">радиостанции YOSAN</category>
+            <category id="571" parentId="544">радиостанции PRESIDENT</category>
+            <category id="559" parentId="544">радиостанции ALBRECHT</category>
+            <category id="565" parentId="544">радиостанции OPTIM</category>
+            <category id="727" parentId="544">радиостанции VECTOR</category>
+            <category id="545">Портативные радиостанции</category>
+            <category id="498" parentId="545">MIDLAND</category>
+            <category id="528" parentId="545">ROGER</category>
+            <category id="603" parentId="545">BAOFENG</category>
+            <category id="723" parentId="545">БАЙКАЛ</category>
+            <category id="570" parentId="545">АРГУТ</category>
+            <category id="604" parentId="545">LIRA</category>
+            <category id="626" parentId="545">TYTERA</category>
+            <category id="680" parentId="545">TURBOSKY</category>
+            <category id="681" parentId="545">COMRADE</category>
+            <category id="696" parentId="545">ГРИФОН</category>
+            <category id="719" parentId="545">Портативные Ci-Bi радиостанции</category>
+            <category id="740" parentId="545">СОЮЗ</category>
+            <category id="547">Радиостанции VERTEX STANDARD</category>
+            <category id="521" parentId="547">
+VERTEX-портативные, носимые, переносные радиостанции
+            </category>
+            <category id="522" parentId="547">
+VERTEX-базовые, автомобильные, возимые радиостанции
+            </category>
+            <category id="523" parentId="547">VERTEX-ретрансляторы</category>
+            <category id="548">Радиостанции YAESU</category>
+            <category id="518" parentId="548">
+YAESU-портативные, носимые, переносные радиостанции
+            </category>
+            <category id="519" parentId="548">
+YAESU- базовые, автомобильные, возимые радиостанции
+            </category>
+            <category id="520" parentId="548">YAESU– КВ трансиверы</category>
+            <category id="601" parentId="548">YAESU-приемники</category>
+            <category id="549">Морские радиостанции STANDARD HORIZON</category>
+            <category id="524" parentId="549">STANDARD HORIZON-морские радиостанции портативные</category>
+            <category id="525" parentId="549">STANDARD HORIZON - базовые мобильные радиостанции</category>
+            <category id="550">Речные радиостанции</category>
+            <category id="526" parentId="550">Портативные речные радиостанции</category>
+            <category id="636" parentId="550">Бортовые речные радиостанции</category>
+            <category id="551">Авиационные радиостанции</category>
+            <category id="527" parentId="551">Портативные, носимые, переносные радиостанции</category>
+            <category id="635" parentId="551">Бортовые,стационарные радиостанции</category>
+            <category id="552">Радиостанции HYTERA</category>
+            <category id="538" parentId="552">
+HYTERA-портативные, носимые, переносные радиостанции
+            </category>
+            <category id="691" parentId="538">HYTERA- цировые DMR портативные радиостанции</category>
+            <category id="694" parentId="538">HYTERA-TETRA портативные радиостанции</category>
+            <category id="560" parentId="552">
+HYTERA-базовые, автомобильные, возимые радиостанции
+            </category>
+            <category id="693" parentId="560">HYTERA- цифровые DMR автомобильные радиостанции</category>
+            <category id="695" parentId="560">HYTERA-TETRA автомобильные радиостанции</category>
+            <category id="697" parentId="552">HYTERA-ретрансляторы</category>
+            <category id="553">Антенны и крепления для радиостанций</category>
+            <category id="584" parentId="553">Антенны врезные</category>
+            <category id="585" parentId="584">PRESIDENT</category>
+            <category id="586" parentId="584">SIRIO</category>
+            <category id="734" parentId="584">COMET</category>
+            <category id="587" parentId="584">LEMM</category>
+            <category id="588" parentId="584">ALAN</category>
+            <category id="589" parentId="584">MDI</category>
+            <category id="595" parentId="584">MEGAJET</category>
+            <category id="591" parentId="584">YAESU</category>
+            <category id="593" parentId="584">OPEK</category>
+            <category id="720" parentId="584">OPTIM</category>
+            <category id="531" parentId="553">Антенны на магните</category>
+            <category id="580" parentId="531">ANLI</category>
+            <category id="577" parentId="531">PRESIDENT</category>
+            <category id="578" parentId="531">SIRIO</category>
+            <category id="579" parentId="531">DIAMOND</category>
+            <category id="596" parentId="531">OPEK</category>
+            <category id="597" parentId="531">COMET</category>
+            <category id="598" parentId="531">MEGAJET</category>
+            <category id="599" parentId="531">MIDLAND</category>
+            <category id="600" parentId="531">MDI</category>
+            <category id="721" parentId="531">OPTIM</category>
+            <category id="532" parentId="553">Антенны базовые</category>
+            <category id="581" parentId="532">ANLI</category>
+            <category id="582" parentId="532">DIAMOND</category>
+            <category id="583" parentId="532">SIRIO</category>
+            <category id="637" parentId="532">PRESIDENT</category>
+            <category id="638" parentId="532">OPEK</category>
+            <category id="639" parentId="532">YAESU</category>
+            <category id="640" parentId="532">COMET</category>
+            <category id="722" parentId="532">OPTIM</category>
+            <category id="533" parentId="553">Крепления для антенн и радиостанций</category>
+            <category id="649" parentId="533">Крепления для антенн на багажник</category>
+            <category id="651" parentId="533">Крепления для антенн на водосточный желоб</category>
+            <category id="652" parentId="533">Крепления для антенн на зеркало</category>
+            <category id="653" parentId="533">Крепления для антенн на рейлинг</category>
+            <category id="654" parentId="533">Антенные крепления с магнитным основанием</category>
+            <category id="641" parentId="553">Антенны для портативных радиостанций</category>
+            <category id="642" parentId="641">DIAMOND</category>
+            <category id="644" parentId="641">OPEK</category>
+            <category id="645" parentId="641">COMET</category>
+            <category id="646" parentId="641">VERTEX</category>
+            <category id="647" parentId="641">KENWOOD</category>
+            <category id="648" parentId="641">YAESU</category>
+            <category id="554">Радиостанции KENWOOD</category>
+            <category id="529" parentId="554">
+KENWOOD - портативные, носимые, переносные радиостанции
+            </category>
+            <category id="741" parentId="554">KENWOOD-базовые,автомобильные,возимые радиостанции</category>
+            <category id="555">Источники и блоки питания для радиостанций</category>
+            <category id="535" parentId="555">Усилители мощности RM</category>
+            <category id="540" parentId="555">Источники и блоки питания</category>
+            <category id="738" parentId="540">ALINCO блоки питания</category>
+            <category id="724" parentId="540">ASTRON блоки питания</category>
+            <category id="655" parentId="540">DIAMOND блоки питания</category>
+            <category id="656" parentId="540">GOLDSOURCE блоки питания</category>
+            <category id="657" parentId="540">QJE блоки питания</category>
+            <category id="658" parentId="540">RM блоки питания</category>
+            <category id="659" parentId="540">OPTIM блоки питания</category>
+            <category id="660" parentId="540">SAMLEX блоки питания</category>
+            <category id="661" parentId="540">MANSON блоки питания</category>
+            <category id="662" parentId="540">БАЙКАЛ блоки питания</category>
+            <category id="663" parentId="555">Преобразователи напряжения</category>
+            <category id="664" parentId="663">DIAMOND преобразователи напряжения</category>
+            <category id="665" parentId="663">MANSON преобразователи напряжения</category>
+            <category id="667" parentId="663">OPTIM преобразователи напряжения</category>
+            <category id="668" parentId="663">QJE преобразователи напряжения</category>
+            <category id="669" parentId="663">RM RT преобразователи напряжения</category>
+            <category id="670" parentId="663">SAMLEX преобразователи напряжения</category>
+            <category id="725" parentId="663">ASTRON преобразователи напряжения</category>
+            <category id="556">Рации для дальнобойщиков</category>
+            <category id="557">Рации для такси</category>
+            <category id="558">Рации для охоты и рыбалки</category>
+            <category id="615">Радиостанции ALINCO</category>
+            <category id="632" parentId="615">ALINCO-цифровые DMR портативные радиостанции</category>
+            <category id="616" parentId="615">
+ALINCO-портативные, носимые,переносные радиостанции
+            </category>
+            <category id="617" parentId="615">
+ALINCO-базовые, автомобильные,возимые радиостанции
+            </category>
+            <category id="618" parentId="615">Alinco- кв трансиверы</category>
+            <category id="737" parentId="615">ALNCO-цифровые DMR автомобильные радиостанции</category>
+            <category id="672">Измерители КСВ и мощности антенн</category>
+            <category id="673" parentId="672">DIAMOND измерители КСВ и мощности антенн</category>
+            <category id="674" parentId="672">DF измерители КСВ и мощности антенн</category>
+            <category id="676" parentId="672">NISSEI измерители КСВ и мощности антенн</category>
+            <category id="677" parentId="672">OPTIM измерители КСВ и мощности антенн</category>
+            <category id="678" parentId="672">COMET измерители КСВ и мощности антенн</category>
+            <category id="682">Аксессуары для радиостанций</category>
+            <category id="683" parentId="682">Аккумуляторы для радиостанций</category>
+            <category id="685" parentId="683">Аккумуляторы для радиостанций АРГУТ</category>
+            <category id="686" parentId="683">Аккумуляторы для радиостанций BAOFENG</category>
+            <category id="687" parentId="683">Аккумуляторы для радиостанций COMRADE</category>
+            <category id="688" parentId="683">Аккумуляторы для радиостанций LIRA</category>
+            <category id="689" parentId="683">Аккумуляторы для радиостанций MIDLAND</category>
+            <category id="690" parentId="683">Аккумуляторы для радиостанций TURBOSKY</category>
+            <category id="699" parentId="683">Аккумуляторы для радиостанций TWR</category>
+            <category id="700" parentId="683">Аккумуляторы для радиостанций KENWOOD</category>
+            <category id="701" parentId="683">Аккумуляторы для радиостанций ALINCO</category>
+            <category id="702" parentId="683">Аккумуляторы для радиостанций HYTERA</category>
+            <category id="703" parentId="683">Аккумуляторы для радиостанций VERTEX STANDARD</category>
+            <category id="704" parentId="683">Аккумуляторы для радиостанций YAESU</category>
+            <category id="705" parentId="683">Аккумуляторы для радиостанций STANDARD HORIZON</category>
+            <category id="706" parentId="683">Аккумуляторы для радиостанций ROGER</category>
+            <category id="684" parentId="682">Гарнитуры и тангенты для радиостанций</category>
+            <category id="733" parentId="684">Гарнитуры и тангенты для радиостанций YAESU</category>
+            <category id="707" parentId="684">Гарнитуры и тангенты для радиостанций АРГУТ</category>
+            <category id="708" parentId="684">Гарнитуры и тангенты для радиостанций BAOFENG</category>
+            <category id="709" parentId="684">Гарнитуры и тангенты для радиостанций COMRADE</category>
+            <category id="710" parentId="684">Гарнитуры и тангенты для радиостанций LIRA</category>
+            <category id="711" parentId="684">Гарнитуры и тангенты для радиостанций MIDLAND</category>
+            <category id="712" parentId="684">Гарнитуры и тангенты для радиостанций ROGER</category>
+            <category id="713" parentId="684">Гарнитуры и тангенты для радиостанций TURBOSKY</category>
+            <category id="714" parentId="684">Гарнитуры и тангенты для радиостанций KENWOOD</category>
+            <category id="715" parentId="684">Гарнитуры и тангенты для радиостанций ALINCO</category>
+            <category id="717" parentId="684">Гарнитуры и тангенты для радиостанций HYTERA</category>
+            <category id="728" parentId="684">Гарнитуры и тангенты для радиостанций MEGAJET</category>
+            <category id="729" parentId="684">Гарнитуры и тангенты для радиостанций PRESIDENT</category>
+            <category id="731" parentId="684">
+Гарнитуры и тангенты для радиостанций VERTEX STANDARD
+            </category>
+            <category id="746">Радиостанции ICOM</category>
+            <category id="747" parentId="746">ICOM-портативные, носимые,переносные радиостанции</category>
+            <category id="749" parentId="747">ICOM- цифровые dPMR и DMR портативные радиостанции</category>
+            <category id="748" parentId="746">ICOM- базовые, автомобильные,возимые радиостанции</category>
+            <category id="750" parentId="748">
+ICOM- цифровые dPMR и DMR автомобильные радиостанции
+            </category>
+        </categories>
+        <local_delivery_cost>300</local_delivery_cost>
+        <offers>
+            <offer id="2761" available="true">
+                <url>http://www.radio-liga.ru/good/2761/ARGUT_RK-301H</url>
+                <price>8500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut rk301h.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ РК-301H</name>
+                <description>
+АРГУТ РК-301НАРГУТ РК-301Н профессиональная портативная радиостанция, разработана российскими инженерами-разработчиками. ВЧ параметры радиостанции соответствуют ГОСТ 12252-86 для радиостанций типа 2. РадиостанцияАРГУТ РК-301Нсоответствует требованиям по устойчивости к механическим и климатическим воздействиям, установленным в ГОСТ 16019-2001. У трансивера АРГУТ РК-301Н есть возможность установки дополнительных модулей, расширяющих функционал станции (маскираторы речи, и т.п.). Наличие питания у
+                </description>
+            </offer>
+            <offer id="2648" available="true">
+                <url>
+http://www.radio-liga.ru/good/2648/PRESIDENT_JACKSON_II_ASC_
+                </url>
+                <price>22990</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>571</categoryId>
+                <picture>http://www.radio-liga.ru/source/prjackson.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>PRESIDENT JACKSON II ASC</name>
+                <description>
+PRESIDENT JACKSON II ASCАвтомобильная CB-радиостанцияPRESIDENT JACKSON II ASC выполнена в уникальном исполнении сдискретнымуправлением, что придаёт не только удобство использования, но и создаёт неповторимую аутентичность. Управление осуществляется посредством двух- или трёхпозиционныхпереключателей, каждый из которых соответствует активации или выбору той или иной функции.Выходная мощность радиостанции -до 15 Ватт.Благодаря своему богатому функционалу, она рассчитана не только на рядовых пользо
+                </description>
+            </offer>
+            <offer id="2813" available="true">
+                <url>
+http://www.radio-liga.ru/good/2813/ALINCO_DJ-195_body
+                </url>
+                <price>7600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alincodj195.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-195 (body)</name>
+                <description>
+ALINCO DJ-195(body)ALINCO DJ-195 body это компактная рация с удобным креплением для ношения на поясе .Поддерживает 40 каналов памяти, встроенные кодер и декодер CTCSS и DCS. Необходимая частота вызова вводится с клавиатуры.Покупая рацию Alinco DJ-195 body вы получаете одну из самых популярных раций. Радиостанция выполнена на крепком металлическом шасси, который закрывается пластиковым корпусом.Новая антенна с надежным резьбовым разъемом.Модель адаптирована для работы в транковой системе SmarTru
+                </description>
+            </offer>
+            <offer id="2646" available="true">
+                <url>
+http://www.radio-liga.ru/good/2646/PRESIDENT_JFK_II_ASC
+                </url>
+                <price>18700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>571</categoryId>
+                <picture>http://www.radio-liga.ru/source/prjfk2.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>PRESIDENT JFK II ASC</name>
+                <description>
+PRESIDENT J.F.K II ASCОдна из самых функциональных автомобильных Си-Би радиостанций от известного французского производителяPRESIDENT JFK II ASCотличается не только превосходным качеством изготовления, но и широким набором настроек.Радиостанция PRESIDENT JFK II ASC снабженавстроенным КСВ-метром, который позволяет производить настройку антенны без дополнительных приборов. Так же возможно в реальном времени отображение выходной мощности и уровня сигнала приёма-передачи. Настройка чувствительности
+                </description>
+            </offer>
+            <offer id="2816" available="true">
+                <url>
+http://www.radio-liga.ru/good/2816/ALINCO_DJ-496_body
+                </url>
+                <price>9000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alincodj496.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-496 (body)</name>
+                <description>
+ALINCO DJ-496 (body)ALINCO DJ-496- эта радиостанция проста в эксплуатации и удобны в работе, обладают расширенными функциями и впечатляющими возможностями.Рация ALINCO DJ-496имеет большой и контрастный LCD-дисплей, с встроенной ночной подсветкой, отображающий всю оперативную информацию о состоянии радиостанции и текущем частотном диапазоне.Основой корпуса радиостанцииALINCO DJ-496служит прочное и лёгкое алюминиевое шасси, гарантирующий защиту внутренней электроники от физических воздействий. Дол
+                </description>
+            </offer>
+            <offer id="2643" available="true">
+                <url>
+http://www.radio-liga.ru/good/2643/PRESIDENT_WILLIAM_ASC
+                </url>
+                <price>22990</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>571</categoryId>
+                <picture>http://www.radio-liga.ru/source/william.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>PRESIDENT WILLIAM ASC</name>
+                <description>
+PRESIDENT WILLIAM ASCАвтомобильная радиостанция PRESIDENT WILLIAM ASC занимает особое место среди СВ радиостанций President благодаря своей компактности и многофункциональной тангенте.Главной особенностью PRESIDENT WILLIAM ASCявляется то, что выносная тангента является пультом управления радиостанцией. На этой тангенте находится LCD дисплей, динамик, микрофон, манипулятор (нажатие на передачу) и кнопки для регулировок и настройки всех функций радиостанции.В комплекте радиостанции PRESIDENT WILLI
+                </description>
+            </offer>
+            <offer id="2763" available="true">
+                <url>http://www.radio-liga.ru/good/2763/ARGUT_A-74</url>
+                <price>8900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut74.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-74</name>
+                <description>
+АРГУТ А-74АРГУТ А-74-свежее решение для гражданской радиосвязи!КомпанияАРГУТс гордостью представляет цифровую радиостанцию стандартаdPMR Модель АРГУТ А-74со степенью защиты IP 65.Теперь проверенное временем качество радиостанцийАРГУТдостигло цифровых стандартов связи.Оцените преимущества стандартаdPMPсреди которых: удаленное управление другойdPMRстанцией ( блокировка, kill code ), передача сигнала тревоги, групповой вызов и ,конечно, совместимость с парком аналоговых станций.Обладая характерной
+                </description>
+            </offer>
+            <offer id="2805" available="true">
+                <url>
+http://www.radio-liga.ru/good/2805/ALINCO_DJ-FX446_NEW
+                </url>
+                <price>4100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/DJ-FX446.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-FX446 NEW</name>
+                <description>
+ALINCO DJ-FX446 NEWAlinco DJ-FX446 идеальна для использования в местах, где мобильная связь отсутствует или ее качество является нестабильным. Эту радиостанцию можно смело брать с собой в поход, на охоту или на рыбалку, дачу, можете использовать ее и в условиях современного города, будучи полностью уверенным в эффективной работе устройства. Широкий диапазон допустимых для работы температур позволяет использовать рацию даже в суровых условиях (-20 до +65 С). Управлять ей так же просто, как обычны
+                </description>
+            </offer>
+            <offer id="2759" available="true">
+                <url>http://www.radio-liga.ru/good/2759/ARGUT_A-54</url>
+                <price>8500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut54.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-54</name>
+                <description>
+АРГУТ А-54АРГУТ А-54 аналоговая радиостанция, по праву можно считать профессиональной, так как, помимо своих великолепных характеристик, к ней добавлен крупный и информативный дисплей, а FM-приёмник.Радиостанцию АРГУТ А-54по-настоящему незаменима на активном отдыхе, используя её также в качестве радио.В этой радиостанции АРГУТ А-54возможно изменение шага настройки сетки частот, а приёмник радиостанции построен по супергетеродинной схеме с двойным преобразованием частоты.Литий-ионная аккумуляторн
+                </description>
+            </offer>
+            <offer id="2760" available="true">
+                <url>http://www.radio-liga.ru/good/2760/ARGUT_A-73</url>
+                <price>10880</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut a-73.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-73</name>
+                <description>
+Аргут А-73АРГУТ А-73- цифро-аналоговая носимая радиостанция стандарта DMR(Tier 2) .Как и все модели радиостанции АРГУТ выполнена из противоударного АВС-РС пластика на металлическом шасси, что позволяет эксплуатировать радиостанцию в самых жестких условиях.Радиостанция АРГУТ А-73 имеет стандартный аксессуарный разъем KPG-22 (совместим с радиостанциями Kenwood). Такая совместимость обеспечивает возможность выбора большого количества различных аксессуаров.Радиостанция АРГУТ А-73 имеет класс защиты
+                </description>
+            </offer>
+            <offer id="2819" available="true">
+                <url>http://www.radio-liga.ru/good/2819/ALINCO_DJ-G7</url>
+                <price>31500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/ALINCODJG7.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-G7</name>
+                <description>
+ALINCO DJ-G7Носимая трех-диапазонная радиостанция ALINCO DJ-G7 произведена на основании стандарта IPX-7. Портативная трех-диапазонная радиостанция приспособлена для эксплуатации в условиях обилия водяных брызг и допускает возможность полного погружения под воду на глубину до 1 метра на время до 30 минут.Широчайший набор функциональных возможностей: сканирование частоты, ввод любой частоты в поддерживаемых диапазонах (144 -146 МГц или 430 -440 МГц), Li-Ion аккумулятор, который позволяет заряжать
+                </description>
+            </offer>
+            <offer id="2888" available="true">
+                <url>http://www.radio-liga.ru/good/2888/SVYAZ_R-21</url>
+                <price>6300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>526</categoryId>
+                <picture>http://www.radio-liga.ru/source/svyaz21.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СВЯЗЬ Р-21</name>
+                <description>
+СВЯЗЬ Р-21Речная рация такого исполнения, новинка для нашего рынка. В отличии от других раций речного диапазона, СВЯЗЬ Р-21 имеет возможность прямого ввода частоты, используя клавиатуру.На нашем рынке станций с такой возможностью не было до сих пор. Кроме этого, также есть возможность занести в память 128 каналов. Верхний механический переключатель каналов, делает управление радиостанцией простой и удобной.Рация СВЯЗЬ Р-21 выполнена в ярком жёлтом корпусе. Это рекомендуется для речных раций. Жёл
+                </description>
+            </offer>
+            <offer id="2640" available="true">
+                <url>
+http://www.radio-liga.ru/good/2640/PRESIDENT_WALKER_ASC
+                </url>
+                <price>15200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>571</categoryId>
+                <picture>http://www.radio-liga.ru/source/prwalker.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>PRESIDENT WALKER ASC</name>
+                <description>
+PRESIDENT WALKER ASCАвтомобильная радиостанцияPRESIDENT WALKER ASCвыполнена в уникальном исполнения с дискретными двух- или трёхпозиционными переключателями для активации или выбора той или иной функции, что создаёт неповторимую аутентичность, удобство и наглядность использования.Богатый функционал радиостанции PRESIDENT WALKER ASCпозволяет адаптировать роботу к любым условиям. ВстроенныйS-метрRX/TX наглядно и точно отображает уровень приёма и выходную мощность передачи. Запатентованный автомати
+                </description>
+            </offer>
+            <offer id="2789" available="true">
+                <url>http://www.radio-liga.ru/good/2789/BAOFENG_BF-888S</url>
+                <price>960</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>603</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baofeng/BAOFENG BF888S.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>BAOFENG BF-888S</name>
+                <description>
+BAOFENG BF-888SBAOFENG BF-888S портативная радиостанция очень компактных размеров, выполненная в прочном корпусе сэкономит ваш бюджет и обеспечит качественную связь в простейших системах.Небольшая легкая радиостанция, предельно проста в использовании. На открытой местности модель обеспечивает связь до 5 км, в городской черте в радиусе 1 4 км. Устройство выполнено в прочном алюминиевом корпусе, обеспечивающим улучшенный теплоотвод, а также надежную пыле- и влагозащиту.Основные характеристики ра
+                </description>
+            </offer>
+            <offer id="2817" available="true">
+                <url>http://www.radio-liga.ru/good/2817/ALINCO_DJ-V57</url>
+                <price>12544</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>http://www.radio-liga.ru/source/DJ-V57 body.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-V57</name>
+                <description>
+ALINCO DJ-V57Купить рациюALINCO DJ-V57 означает приобрести маленькую компактную рацию, которая легко работает в нескольких диапазонах связи. Рация может работать на трех уровнях мощности: максимальном, минимальном и среднем.Кроме того, купить рацию Alinco DJ-V57 рекомендуется тем, кто ищетоборудованное множеством функций для комфортной эксплуатации устройством.Новинка ALINCO DJ-V57 обладает хорошим звучанием, в конструкции был использован сорокамиллиметровый динамик.Alinco DJ-V57 унаследовала от
+                </description>
+            </offer>
+            <offer id="2889" available="true">
+                <url>http://www.radio-liga.ru/good/2889/ARGUT_A-36</url>
+                <price>7700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>526</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut36.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-36</name>
+                <description>
+АРГУТ А-36Новейшая радиостанция в линейкеАРГУТ, которую профессионалы уже окрестили"речной".Эта модель сделана из прочного ABC-PC пластика, водоусточива (наиболее высокая степень защиты IP-66).Режим ожидания уАргут А-36 - до 1,5 недель и несколько дней работы без подзарядки аккумулятора при активном использовании.Эргономичная клавиатура и корпус позволят удобно расположить рацию в ладони и произвести необходимые настройки.В рации по умолчанию зашиты каналы в соответствии с Российским Речным Реги
+                </description>
+            </offer>
+            <offer id="2814" available="true">
+                <url>
+http://www.radio-liga.ru/good/2814/ALINCO_DJ-V17R_body
+                </url>
+                <price>8600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alincodjv17l.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-V17R (body)</name>
+                <description>
+ALINCO DJ-V17R (body)ALINCO DJ-V17R- это носимая радиостанция УКВ диапазона. Пользуясь рацией Алинко DJ-V17R Вы сможете оценить непревзойденное качество удобного ударозащищенного корпуса из матового пластика. Мощность передачи, достигающая 5 Вт делают эту станцию превосходным спутником в дороге.РацияAlinco DJ-V17Rснабжена функциями встроенными кодерами/декодерами: CTCSS 39 тонов DCS 104 кода. ALINCO DJ-V17R имеет возможность работы в сети в SmarTrunk II.РацияAlincoDJ-V17R имеет широкий диапазон
+                </description>
+            </offer>
+            <offer id="3723" available="true">
+                <url>http://www.radio-liga.ru/good/3723/BAOFENG_UV-3R</url>
+                <price>1728</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>603</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baofeng/baofeng uv3r.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>BAOFENG UV-3R</name>
+                <description>
+BAOFENG UV-3RBAOFENG UV-3R портативная двух-диапазонная радиостанция работает одновременно на двух диапазонах 136-174 и 400-470 МГц.Максимальная мощность BAOFENG UV-3R составляет 3 Вт.Из основных функций BAOFENG UV-3R присутствует голосовая активация передачи (VOX), экономия батареи, благодаря чему Вы сможете оставаться на связи максимально долго.Радиостанция BAOFENG UV-3R отлично зарекомендовали себя среди поклонников активного образа жизни и экстремальных видов спорта. Ими пользуются альпинист
+                </description>
+            </offer>
+            <offer id="3724" available="true">
+                <url>http://www.radio-liga.ru/good/3724/BAOFENG_UV-6R</url>
+                <price>1856</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>603</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baofeng/baofeng uv6r.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>BAOFENG UV-6R</name>
+                <description>
+BAOFENG UV-6RBAOFENG UV-6R двухдиапазонная радиостанция собновленным дизайном.BAOFENG UV-6R очень качественно выполненная и при этом совсем не дорогая.BAOFENG UV-6Rпо техническим параметрам не уступает, а в некоторых случаях и превосходит, продукцию именитых брендов.Портативная двухдиапазонная радиостанцияBAOFENG UV-6R отличается возможностью работать одновременно на двух частотах диапазонов 136-174 и 400-470 МГц с выходной мощностью до 5 Вт.Богатый функционалBAOFENG UV-6R позволит адаптироватьс
+                </description>
+            </offer>
+            <offer id="2756" available="true">
+                <url>http://www.radio-liga.ru/good/2756/ARGUT_A-43</url>
+                <price>5950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut43.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-43</name>
+                <description>
+АРГУТ А-43АРГУТ А-43- это прекрасно сбалансированная модель в линейке радиостанцийАРГУТ.Возможность работы в широком диапазоне частот, простота и прочность конструкции, превосходные электрические характеристики и аккумулятор повышенной емкости - вот далеко не полный перечень достоинств данного трансивера.Упрощенный порядок регистрации и отсутствие требований на приобретение лицензии для эксплуатации вашего трансивера, плюс невысокая цена, несомненно, переводят трансивер АРГУТ А-43в категорию обо
+                </description>
+            </offer>
+            <offer id="2815" available="true">
+                <url>
+http://www.radio-liga.ru/good/2815/ALINCO_DJ-V17L_body_
+                </url>
+                <price>12800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alincodjv17l.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-V17L (body)</name>
+                <description>
+ALINCO DJ-V17L (body)ALINCO DJ-V17L носимая рация диапазона LowBand 33Мгц - 48.5МГцРадиостанция выполнена на прочном металлическом шасси, который закрывается поликарбонатовым корпусом.Аккумуляторная батарея прикрепляется сзади, аналогично некоторым моделям MOTOROLA.Модель адаптирована для работы в транковой системе SmarTrunk II.200 каналов памяти - достаточный объём памяти для записи выбранных частот.Специальная схема заряда-разряда бережёт аккумулятор от эффекта памяти.При использовании этой фу
+                </description>
+            </offer>
+            <offer id="3629" available="true">
+                <url>http://www.radio-liga.ru/good/3629/VEGA_VG-304</url>
+                <price>14720</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>526</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/reka/vega vg-304.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>VEGA VG-304</name>
+                <description>
+VEGA VG-304VEGA VG-304 портативная речная радиостанция диапазона частот 300,000 - 360,000 МГц.VEGA VG-304 является уникальной по функциональности, надежности и качеству среди других радиостанций речного применения, имеет Сертификат Российского Речного Регистра. Одна из лучших радиостанций для работы на речных судах. VEGA VG-304 корпус радиостанции снабжен резиновыми уплотнителями и обладает повышенной степенью защиты от воздействия внешней среды: влажности и пыли, допускает попадание водяных бр
+                </description>
+            </offer>
+            <offer id="2272" available="true">
+                <url>http://www.radio-liga.ru/good/2272/YAESU_FT-60R</url>
+                <price>12285</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>518</categoryId>
+                <picture>http://www.radio-liga.ru/source/yaesuft-60.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FT-60R</name>
+                <description>
+YAESU FT-60RYAESU FT-60R - двухдиапазонная радиостанция радиолюбительского назначения, конструкция которой соответствует требованиям военного стандарта MIL-STD 810. Таким образом станция FT-60R имеет повышенную защищенность против ударов, вибрации, проникания пыли и влаги.В базовой комплектации станции оснащена кодером/декодером DCS и CTCSS, системой автоопределения радиуса устойчивой радиосвязи ARTS.Yaesu Musen Co., Ltd выпускает для YAESU FT-60R Li батарею FNB-83 (7.2 В/ 1400 мАч) быстрый заря
+                </description>
+            </offer>
+            <offer id="2634" available="true">
+                <url>http://www.radio-liga.ru/good/2634/ARGUT_A-41NEW</url>
+                <price>8000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut41 (1).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-41NEW</name>
+                <description>
+АРГУТ А-41NEWУчитывая пожелания пользователей АРГУТ А-41, была создана обновленная версия АРГУТ А-41 NEW.АРГУТ А-41 NEW сочетает в себе большой информативный дисплей, а так же наличие двух приемников, что позволяет всегда оставаться на связи практически с любой радиостанцией VHF и UHF диапазонов. Система меню разработана таким образом, что разобраться с функционалом сможет даже начинающий пользователь.Трансивер АРГУТ А-41 NEWвыполнен из противоударного пластика и имеет степень защиты IP-65, что
+                </description>
+            </offer>
+            <offer id="2641" available="true">
+                <url>
+http://www.radio-liga.ru/good/2641/PRESIDENT_JOHNNY_III_ASC
+                </url>
+                <price>10560</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>571</categoryId>
+                <picture>http://www.radio-liga.ru/source/johnny.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>PRESIDENT JOHNNY III ASC</name>
+                <description>
+PRESIDENTJOHNNY III ASCАвтомобильнаяAM-радиостанция Си-Би диапазонаPRESIDENT JOHNNY III ASCотличный вариант для водителей-дальнобойщиков. Произведённая по европейским стандартам качества она отличается надёжностью, богатым функционалом и простотой управления.Запатентованный автоматический шумоподавительASCсовместно со встроенными фильтрамиAutomatic Noise LimiterиHi-Cutобеспечат автоматически отстройку от помех. Ручная регулировка чувствительности приёма ближних и дальних корреспондентовRF-Gainпо
+                </description>
+            </offer>
+            <offer id="3217" available="true">
+                <url>
+http://www.radio-liga.ru/good/3217/HYTERA_TC-700EX_ATEX
+                </url>
+                <price>49280</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>538</categoryId>
+                <picture>http://www.radio-liga.ru/source/tc700.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA TC-700EX ATEX</name>
+                <description>
+HYTERA TC-700EX ATEXРадиостанция HYTERA TC-700EX предназначена для использования в потенциально взрывоопасной окружающей среде на объектах нефтегазовой отрасли, таких как танкеры или буровые платформы, либо в условиях повышенной концентрации взрывоопасных газов, с которыми часто сталкиваются аварийные службы, т.е. в таких условиях, которые предполагают соблюдение строгих правил безопасности, включая использование безопасного оборудования.Разработанные HYT профессиональные портативные радиостанци
+                </description>
+            </offer>
+            <offer id="2790" available="true">
+                <url>http://www.radio-liga.ru/good/2790/BAOFENG_UV-82</url>
+                <price>1728</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>603</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baofeng/BAOFENG UV82.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>BAOFENG UV-82</name>
+                <description>
+BAOFENG UV-82Портативная двухдиапазонная радиостанция Baofeng UV-82 новая, усовершенствованная модель Baofeng UV-5R.. Она обладает, по сравнению с предыдущими моделями, непревзойденным техническим параметром : благодаря двойной кнопке РТТ стало проще реализовывать сеанс связи. Для передачи по каналу А надо удерживать кнопку сверху, для работы с другим каналом( В) нижнюю клавишу.На выбор можно изменять подсветку дисплея (имеются 3 цвета), гарнитуры подходят от KENWOOD. Максимальная мощность сос
+                </description>
+            </offer>
+            <offer id="2810" available="true">
+                <url>http://www.radio-liga.ru/good/2810/ALINCO_DJ-A446</url>
+                <price>6848</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>http://www.radio-liga.ru/source/DJ-A446.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-A446</name>
+                <description>
+ALINCO DJ-A446ALINCO DJ-A446- радиостанция наделена рядом функций которые характерны для серии раций профессионального уровня. В новой модели Alinco DJ-A446 применяется 3 режима сканирования: частотное сканирование VFO, сканирование по памяти канала, приоритетное сканирование.Встроенный маскиратор речевого канала обеспечивает пользователю рации DJA446 защиту от прослушивания другими обладателями раций на заданной частоте. Скремблер голоса работает по принципу изменения нормальной последовательно
+                </description>
+            </offer>
+            <offer id="2267" available="true">
+                <url>http://www.radio-liga.ru/good/2267/YAESU_VX-3R</url>
+                <price>12675</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>518</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu vx-3r.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU VX-3R</name>
+                <description>
+YAESU VX-3RYAESU VX-3R 2-диапазонная портативная рация продолжает семейство миниатюрных любительских трансиверов. По сравнению с предыдущей моделью VX-2R вещательный диапазон у нее выделен отдельной кнопкой.Специальная конструкция валкодера не позволит изменить частоту настройки без необходимости. появилась уникальная возможность обмена короткими сообщениями между функционально совместимыми станциями, в том числе FTM-10R/E.В качестве опции производитель предлагает батарейный отсек FBA-37, отсутс
+                </description>
+            </offer>
+            <offer id="2855" available="true">
+                <url>http://www.radio-liga.ru/good/2855/OPTIM_TRUCK</url>
+                <price>6400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>565</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/cibi/optim/optimtruck.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>OPTIM-TRUCK</name>
+                <description>
+Автомобильная радиостанцияOPTIM TRUCKOPTIM-TRUCK новая разработка в области автомобильной радиосвязи компании Optim-Svyaz.Радиостанция OPTIM-TRUCK разработана для канальной связи на Си-Би частотах любительского диапазона 27 МГц.OPTIM-TRUCK стандартизирована под размер автомобильной автомагнитолы 1DIN, т.е. ее можно установить на салазках в шахтную нишу панели транспортного средства . Динамик расположен фронтально ,спереди, а не снизу, как у многих автомобильных рациях.Органы управления OPTIM-TRU
+                </description>
+            </offer>
+            <offer id="3193" available="true">
+                <url>http://www.radio-liga.ru/good/3193/HYTERA_TC-700</url>
+                <price>9280</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>538</categoryId>
+                <picture>http://www.radio-liga.ru/source/tc700.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA TC-700</name>
+                <description>
+HYTERA TC-700HYTERA TC-700 профессиональный аналоговый приемо-передатчик для работы в VHF (136-174 МГц) и UHF (400-470 МГц) диапазонах. Производителю удалось добиться наилучшего соотношения цены и качества продукта.Каркас рации HYTERA TC-700 изготовлен из литого алюминия и очень прочного пластика. Защита от проникновения пыли и влаги соответствует стандарту IP64.По степени ударопрочности, противодействию вибрации, природным воздействиям, низким и высоким температурам и другим характеристикам HY
+                </description>
+            </offer>
+            <offer id="2762" available="true">
+                <url>http://www.radio-liga.ru/good/2762/ARGUT_A-36</url>
+                <price>7700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut36.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-36</name>
+                <description>
+АРГУТ А-36 Речной ДиапазонНовейшая радиостанция в линейкеАРГУТ, которую профессионалы уже окрестили"речной".Эта модель сделана из прочного ABC-PC пластика, водоусточива (наиболее высокая степень защиты IP-66). Режим ожидания уАРГУТ А-36 - до 1,5 недель и несколько дней работы без подзарядки аккумулятора при активном использовании.Эргономичная клавиатура и корпус позволят удобно расположить рацию в ладони и произвести необходимые настройки.В рации по умолчанию зашиты каналы в соответствии с Росси
+                </description>
+            </offer>
+            <offer id="2788" available="true">
+                <url>http://www.radio-liga.ru/good/2788/BAOFENG_UV-5R</url>
+                <price>1664</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>603</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baofeng/BAOFENG UV5R.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>BAOFENG UV-5R</name>
+                <description>
+BAOFENG UV-5RНовая рация BAOFENG UV-5Rотличается особой прочностью, эта модель снабжена следующей функцией:BAOFENG UV-5Rумеет находить и отслеживать сразу два канала в одинаковом частотном диапазоне. По общему функционалу рация стоит на уровне самых добротных моделей данной ценовой категории. Она работает в диапазоне 400-520 МГц и 136-174 МГц.Максимальная выходная мощность до 7Вт. В комплектацию входит энергоемкий литий-ионный аккумулятор объемом в 1800мАч. Имеет 128 каналов памяти. Встроенный F
+                </description>
+            </offer>
+            <offer id="2809" available="true">
+                <url>http://www.radio-liga.ru/good/2809/ALINCO_DJ-A41</url>
+                <price>6016</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>http://www.radio-liga.ru/source/alincoa41.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-A41</name>
+                <description>
+ALINCO DJ-A41ALINCO DJ-A41 - это современное устройство радиосвязи,соответствующее по стандарту водонепроницаемости IPX54. Рация также отвечает требованиям стандарта USA Mil-Std 810 по пыле-влаго защите раздел "G".Радиостанция Alinco DJ A41изготовлена на базе надежного шасси из алюминия. Корпус рации выполнен из ударопрочного пластика.Особенностью модели DJ-А41 является встроенная функция маскиратора голоса(скремблер), предотвращающая несанкционированное прослушивание переговоров посторонними аб
+                </description>
+            </offer>
+            <offer id="2268" available="true">
+                <url>http://www.radio-liga.ru/good/2268/YAESU_VX-6R</url>
+                <price>15525</price>
+                <oldprice>18265</oldprice>
+                <currencyId>RUR</currencyId>
+                <categoryId>518</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu vx6r.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU VX-6R</name>
+                <description>
+YAESU VX-6RГлядя на эту компактную модель, не сразу поверишь, то при опускании под воду на глубину метра в течение еще получаса она сохраняет свое превосходное рабочее состояние. Корпус сделан из специального магниевого сплава, что говорит о том, что японцы опять впереди технического прогресса. Прорезиненные части и детали делают рацию особенно защищенной от ударов. Такую модель можно прямо сейчас брать на вооружение любой армии.В комплекте поставляется литий-ионная аккумуляторная батарейка повы
+                </description>
+            </offer>
+            <offer id="2856" available="true">
+                <url>http://www.radio-liga.ru/good/2856/OPTIM_VOYAGER</url>
+                <price>6720</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>565</categoryId>
+                <picture>http://www.radio-liga.ru/source/optimvoyager.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>OPTIM VOYAGER</name>
+                <description>
+Автомобильная радиостанцияOPTIM VOYAGEROPTIM-VOYAGER предназначена для осуществления двустороннего радиообмена в диапазоне частот 27 МГц (Гражданский диапазон, Си-Би,CB) с частотной или амплитудной модуляцией.OPTIM-VOYAGER предназначена для эксплуатации, как в автомобиле, так и в качестве базовой радиостанции.Низкий уровень нелинейных искажений в приёмном тракте, положительно сказывается на качестве принимаемого сигнала и обеспечивает максимальную дальность радиосвязи.Радиостанция OPTIM-VOYAGERп
+                </description>
+            </offer>
+            <offer id="2632" available="true">
+                <url>http://www.radio-liga.ru/good/2632/ARGUT_A-25</url>
+                <price>6600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut a-25.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-25</name>
+                <description>
+АРГУТ А-25АНТИМАГНИТНАЯРадиостанция АРГУТ А-25- это отличный выбор для активного отдыха и спорта.Рация АРГУТ А-25 функциональна и эргономична, но при этом у рации имется легкосъёмный Li-POL аккумулятор (выполнен в формате магазина автомата), с существенно увеличенной ёмкостью, которая позволяет работать без подзарядки более 5 дней.АРГУТ А-25 САМАЯ МОЩНАЯ радиостанция в линейке АРГУТ. Из особенностей модели можно отметить максимальную мощность 8 Ват.Трансивер АРГУТ А-25 имеет 32 канала и литий-п
+                </description>
+            </offer>
+            <offer id="3216" available="true">
+                <url>http://www.radio-liga.ru/good/3216/HYTERA_TC-780</url>
+                <price>24050</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>538</categoryId>
+                <picture>http://www.radio-liga.ru/source/tc780).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA TC-780</name>
+                <description>
+HYTERA TC-780HYTERA TC-780 портативная аналоговая радиостанция выше среднего уровня для работы в частотном диапазоне UHF (400-470 МГц). HYTERA TC-780 снабжено подсвечиваемым ЖК-дисплеем, джойстиком для навигации по меню и полноценной клавиатурой, позволяющей легко регулировать параметры и настройки каналов. Мощный встроенный динамик (1,5 Вт)радиостанции HYTERA TC-780 обеспечивает превосходное четкое звучание даже в шумных средах.Рация HYTERA TC-780 поддерживает 256 каналов связи, которые можно
+                </description>
+            </offer>
+            <offer id="2807" available="true">
+                <url>http://www.radio-liga.ru/good/2807/ALINCO_DJ-A40</url>
+                <price>8100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alincodja40.JPG
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-A40</name>
+                <description>
+ALINCO DJ-A40ALINCO DJ-А40 - новая миниатюрная носимая UHF рация, поддерживающая FM диапазон 76-108 МГц.Средство связи ALINCO DJ-А40отвечает стандарту Mil-Std 810 по защите от внешних воздействий и соответствует требованиям стандарта водонепроницаемости IPX54. Радиостанция Alinco DJ-A40 изготовлена на базе металлического каркаса-шасси из из алюминия.Корпус рации выполнен из ударопрочного пластика.Особенностью Alinco DJ-А40 является встроенная функция скремблера голоса, предотвращающая несанкцион
+                </description>
+            </offer>
+            <offer id="2850" available="true">
+                <url>http://www.radio-liga.ru/good/2850/BAOFENG_BF-A58</url>
+                <price>2816</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>603</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baofeng/BAOFENG BFA58.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>BAOFENG BF-A58</name>
+                <description>
+BAOFENG BF-A58РацияBaofeng BF-A58достаточно одного взгляда, чтобы понять, что это совершенно другой класс по сравнению с привычными нам Baofeng UV-5R и UV-82. Пластик корпуса радиостанции формованный с насечками для более уверенного хвата. Совершенно новый принцип посадки и фиксации аккумулятора, который плотно встает в креплении, что позволяет не допустить попадание влаги, обеспечивая герметичность конструкции. Антенна в комплекте улучшеная с длиной в 15 сантиметров. Меню радиостанции BF-A58
+                </description>
+            </offer>
+            <offer id="2631" available="true">
+                <url>http://www.radio-liga.ru/good/2631/ARGUT_A-24NEW</url>
+                <price>6700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut24.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-24NEW</name>
+                <description>
+АРГУТ А-24NEWАРГУТ А-24 NEW обновленная, более мощная, версия модели АРГУТ А-24.Радиостанция АРГУТ А-24 NEWработает на безлицензионных диапазонах LPD(69 каналов)и PMR(8 каналов), которые переключаются с помощью удобных органов управления.В данной модели применяется прямое преобразование сигнала на основе процессора RDA1846. С помощью процессора RDA1846 увеличивается помехоустойчивость трансивера, а аккумулятор повышенной емкости (2300 мАч), позволяет долгое время оставаться на связи.Изменения к
+                </description>
+            </offer>
+            <offer id="3192" available="true">
+                <url>http://www.radio-liga.ru/good/3192/HYTERA_TC-580</url>
+                <price>8640</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>538</categoryId>
+                <picture>http://www.radio-liga.ru/source/tc580).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA TC-580</name>
+                <description>
+HYTERA TC-580Портативная аналоговая радиостанция HYTERA TC-580 отличается высокой надежностью и широким функционалом.HYTERA TC-580 очень легкая и компактная конструкция покоится на шасси из литого алюминия. Рация HYTERA TC-580 прошла испытания в полевых условиях на соответствие критериям военного стандарта MIL STD 810 (C, D, E, F), а именно ударопрочности, противодействию вибрации, перепадам температур и влажности.HYTERA TC-580 оснащена полноразмерной клавиатурой и ЖК-дисплеем с подсветкой, на
+                </description>
+            </offer>
+            <offer id="3199" available="true">
+                <url>http://www.radio-liga.ru/good/3199/HYTERA_PD-505</url>
+                <price>19200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>691</categoryId>
+                <picture>http://www.radio-liga.ru/source/pd505).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA PD-505</name>
+                <description>
+HYTERA PD-505HYTERA PD-505 цифровая портативная радиостанция, диапазон частот 136-174 МГц, мощность 1-4 Вт / 400-470 МГц, мощность 1-5 Вт. Режимы работы цифровой DMR Tier II и аналоговый. Цифровая радиостанция HYTERA PD-505 полностью соответствует открытому стандарту DMR. Обеспечивает 2 независимых тайм-слота как в режиме работы через ретранслятор, так и в симплексном режиме. HYTERA PD-505незаменима для работы в торговых центрах, где из-за огромного количества людей и шума, необходимы радиоста
+                </description>
+            </offer>
+            <offer id="2808" available="true">
+                <url>http://www.radio-liga.ru/good/2808/ALINCO_DJ-A11</url>
+                <price>6144</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alincodja11.png
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-A11</name>
+                <description>
+ALINCO DJ-A11ALINCO DJ-A11 - это современное устройство радиосвязи,соответствующее по стандарту водонепроницаемости IPX54. Рация также отвечает требованиям стандарта USA Mil-Std 810 по пыле-влаго защите раздел "G".Радиостанция Alinco DJ A11изготовлена на базе надежного шасси из алюминия. Корпус рации выполнен из ударопрочного пластика.Особенностью модели DJ-А11 является встроенная функция маскиратора голоса(скремблер), предотвращающая несанкционированное прослушивание переговоров посторонними аб
+                </description>
+            </offer>
+            <offer id="3573" available="true">
+                <url>http://www.radio-liga.ru/good/3573/BAOFENG_BF-9700</url>
+                <price>2368</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>603</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baofeng/BAOFENG BF9700.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>BAOFENG BF-9700</name>
+                <description>
+BAOFENG BF-9700В линейке радиостанций BAOFENG появилась новая пыле и влагозащищенная портативная радиостанция BAOFENG BF-9700 (степень защитыIP-67). Радиостанция BAOFENG BF-9700 предназначена для работы в диапазоне 400 - 470 МГц (LPD и PMR диапазоны). Максимальная мощность передатчика 6 Вт обеспечивает максимальное расстояние связи.У рации BAOFENG BF-9700 нет дисплея, но не смотря на это в рации имеется встроенный радиоприемник FM диапазона. Все настройки BAOFENG BF-9700 программируются с помощь
+                </description>
+            </offer>
+            <offer id="3626" available="true">
+                <url>http://www.radio-liga.ru/good/3626/MIDLAND_G-2</url>
+                <price>3600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>498</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/midland/mid g2.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>MIDLAND G-2</name>
+                <description>
+MIDLAND G-2MIDLAND G2 новая модель MIDLAND в ассортименте безлицензионных портативных раций с возможностью программирования. КорпусMIDLAND G2имеет стильный современный дизайнсо встроенным фонариком.Стандартно расположеннуюкнопку РТТ дублирует кнопка на передней панели. Такое расположение РТТ привычно для пользователей смартфонов иудобно при пользовании рацией в перчатках в зимнее время.. MIDLAND G2 обеспечивает работу в 16 каналах PMR (8 + 8 заранее запрограммированных),с помощью программировани
+                </description>
+            </offer>
+            <offer id="2556" available="true">
+                <url>http://www.radio-liga.ru/good/2556/YAESU_VX-8DR</url>
+                <price>25260</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>518</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu vx8dr.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU VX-8DR</name>
+                <description>
+YAESU VX-8DRПереносная радиостанция VX-8DR с поддержкой технологий APRS/GPS/Bluetooth является расширенной версией радиостанции VX-8R, в которой помимо основных характеристик и параметров, также реализованы дополнительные функции APRS, отвечающие нуждам наиболее активных пользователей системы APRS.Радиостанция VX-8DR имеет тот же внешний вид, что и VX-8R, с ней применяются те же аксессуары.Основные характеристики радиостанции YAESU VX-8DR:Функция Smart Beaconing: при использовании APRS для опред
+                </description>
+            </offer>
+            <offer id="2858" available="true">
+                <url>http://www.radio-liga.ru/good/2858/OPTIM_APOLLO</url>
+                <price>5760</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>565</categoryId>
+                <picture>http://www.radio-liga.ru/source/optimapollo.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>OPTIM APOLLO</name>
+                <description>
+Автомобильная радиостанцияOPTIM APOLLOOPTIM APOLLO компактная радиостнция обновлённой версии, предназначена для работы в диапазоне частот 27 МГц (Си-Би). Основным достоинством радиостанции является наличие всех органов управления, дисплея и громкоговорителя на передней панели микротелефонной гарнитуры. Корпус основного блока изготовлен из алюминиевого сплава, методом литья, что положительно сказывается на надёжности радиостанции.На основании отзывов покупателей в обновлённой версии радиостанции
+                </description>
+            </offer>
+            <offer id="2630" available="true">
+                <url>http://www.radio-liga.ru/good/2630/ARGUT_A-23NEW</url>
+                <price>6500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut-a23.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-23NEW</name>
+                <description>
+АРГУТ А-23NEWАРГУТ А-23 NEWобновленная, более мощная, версия топовой модели в линейке АРГУТ.В модели АРГУТ А-23 NEWприменяется прямое преобразование сигнала на основе процессора RDA1846.С помощью процессора RDA1846 увеличивается помехоустойчивость трансивера, а аккумулятор повышенной емкости (2300 мАч), позволяет долгое время оставаться на связи в независимости от интенсивности использования. Так же есть возможность подключения кейса под батарейки типа AАА, взамен штатного аккумулятора, что позв
+                </description>
+            </offer>
+            <offer id="3191" available="true">
+                <url>http://www.radio-liga.ru/good/3191/HYTERA_TC-518</url>
+                <price>6800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>538</categoryId>
+                <picture>http://www.radio-liga.ru/source/tc518(.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA TC-518</name>
+                <description>
+HYTERA TC-518HYTERA TC-518 аналоговая радиостанция,которая позволяет осуществлять управление одной рукой. Большая кнопка включения питания и регулировки громкости находится на боковой поверхности. Она совмещена с PTT клавишей, благодаря чему существенно облегчается управление рацией.Клавиша переключения каналов на верхней поверхности также имеет большой размер, чтобы пользователь мог управлять ею, даже находясь в перчатках. Такая конструкция позволяет использовать HYTERA TC-518 на крупных произ
+                </description>
+            </offer>
+            <offer id="3198" available="true">
+                <url>http://www.radio-liga.ru/good/3198/HYTERA_PD-405</url>
+                <price>12800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>691</categoryId>
+                <picture>http://www.radio-liga.ru/source/pd405).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA PD-405</name>
+                <description>
+HYTERA PD-405HYTERA РD-405 портативная радиостанция стандарта DMR для профессионального применения в строительстве, безопасности, гостиничном бизнесе, на производстве, в банковском деле везде, где от своевременной и надежной связи зависит результат усилий многих людей. Встроенный модуль GPS позволяет отслеживать местонахождение абонента в режиме реального времени.HYTERA РD-405 имеет тонкий, но исключительно прочный корпус, изготовленный из углепластика на алюминиевом шасси. Высокое качество сб
+                </description>
+            </offer>
+            <offer id="2806" available="true">
+                <url>http://www.radio-liga.ru/good/2806/ALINCO_DJ-A10</url>
+                <price>8100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alincodja10.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-A10</name>
+                <description>
+ALINCO DJ-A10AlincoDJ-А10 - портативная станция выгодно отличается от предшествующей модели встроенными функциями. В радиостанции Алинко DJ-A10 установлены 3 варианта поиска: VFO, память канала, приоритетное сканирование. Для шифрования передачи голосовых данных в трансивере DJ-A10 встроена функция маскиратора речи. Режим маскиратора изменяет речевые сигналы, в результате прослушиваемая речь , после воздействия шифратора голоса становится недоступной для человеческого восприятия. Переносная раци
+                </description>
+            </offer>
+            <offer id="2892" available="true">
+                <url>http://www.radio-liga.ru/good/2892/SVYAZ_M-21</url>
+                <price>21000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>636</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/reka/svyaz m21.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СВЯЗЬ М-21</name>
+                <description>
+СВЯЗЬ М-21Профессиональная бортовая речная радиостанция СВЯЗЬ М-21 работает в диапазоне 300-350 МГц, создана на основе самых передовых достижений в области радиосвязи, с использованием опыта ведущих производителей профессионального радиооборудования.СВЯЗЬ М-21 самая мощная судовая радиостанция, для работы на каналах радиосвязи речных судов.Мощность радиостанции СВЯЗЬ М-21 60 Вт.Можно установить мощность 5/10/25/60 Вт.Основные характеристикиречной рации СВЯЗЬ М-21:2-тоновый/5-тоновый/DTMF сигн
+                </description>
+            </offer>
+            <offer id="2859" available="true">
+                <url>http://www.radio-liga.ru/good/2859/OPTIM_PILGRIM</url>
+                <price>3968</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>565</categoryId>
+                <picture>http://www.radio-liga.ru/source/optimpilgrim.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>OPTIM PILGRIM</name>
+                <description>
+Автомобильная радиостанцияOPTIM PILGRIMOPTIM PILGRIM автомобильная радиостанция предназначена для осуществления двустороннего радиообмена в диапазоне частот 27 МГц (Гражданский диапазон, Си-Би,CB) с частотной или амплитудной модуляцией.Радиостанция предназначена для эксплуатации, как в автомобиле, так и в качестве базовой радиостанции.Поступила в продажу новая модификация радиостанции с напряжением питания от 12 до 24 В. Радиостанции отличаются от предыдущих поставок упаковкой и значком EAC на в
+                </description>
+            </offer>
+            <offer id="3190" available="true">
+                <url>http://www.radio-liga.ru/good/3190/HYTERA_TC-508</url>
+                <price>6800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>538</categoryId>
+                <picture>http://www.radio-liga.ru/source/tc508.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA TC-508</name>
+                <description>
+HYTERA TC-508Корпус радиостанции HYTERA TC-508 отличается небольшим весом при отличных показателях прочности, что обеспечивает удобство переноски радиостанциии одновременно делает ее необычайно устойчивой к неблагоприятным воздействиям.Радиостанция HYTERA TC-508 способна выдерживать сильные удары, падение и воздействие различных неблагоприятных факторов окружающей средыэксплуатации. В аспекте устойчивости к воздействию окружающей среды она соответствует всем критериям и требованиям, предусмотрен
+                </description>
+            </offer>
+            <offer id="2811" available="true">
+                <url>http://www.radio-liga.ru/good/2811/ALINCO_DJ-500</url>
+                <price>8128</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alincodj500.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-500</name>
+                <description>
+ALINCO DJ-500Компактная рация Alinco DJ-500 это новинка 2014 года от известного японского производителя.Двухдиапазонная рация работает на частотных диапазонах RX/TX VHF/UHF, максимальная мощность на передачу 5 Ватт, в модели поддерживается трех-уровневое переключение режимов мощности 5 / 2.5 / 1 Вт.Радиостанция Алинко DJ500 имеет встроенный FM-приемник с расширенным диапазоном радиочастот 76-108 MГц.Компактная двухдиапазонная радиостанция Alinco DJ500 снабжена эффективной системой шумоподавления
+                </description>
+            </offer>
+            <offer id="2294" available="true">
+                <url>http://www.radio-liga.ru/good/2294/VERTEX_VX-231_</url>
+                <price>5440</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>521</categoryId>
+                <picture>http://www.radio-liga.ru/source/vertex231.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>VERTEX VX-231</name>
+                <description>
+VERTEX VX-231Vertex Standard VX-231 отличается способностью покрывать расширенные диапазоны частот, широким арсеналом сигнализации и совершенной эргономикой. Радиостанция практически невесомая, отлично лежит на руке, но при этом обладает невероятной прочностью. Применяемый в аппарате аккумулятор может переносить радикальные морозные температуры, имея при этом энергоемкость в 1200 мАч. Рация автоматически сканирует сразу в четырех режимах: простое, двухканальное сканирование, далее с установленн
+                </description>
+            </offer>
+            <offer id="3189" available="true">
+                <url>http://www.radio-liga.ru/good/3189/HYTERA_TC-320</url>
+                <price>4416</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>538</categoryId>
+                <picture>http://www.radio-liga.ru/source/TC320.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA TC-320</name>
+                <description>
+HYTERA TC-320HYTERA TC-320портативная радиостанция для любого пользователя. Эта рация подойдет работникам служб безопасности и охраны, туристам и путешественникам, спортсменам, сотрудникам торговых центров, гостиниц, магазинов, складов. Ее можно использовать во время проведения строительных, монтажных и любых других работ, когда требуется использование радиосвязи.HYTERA TC-320 обеспечивает дальность связи 0,3-1 км в условиях городской застройки и 2-3 км на открытой местности.Основные характерист
+                </description>
+            </offer>
+            <offer id="2812" available="true">
+                <url>http://www.radio-liga.ru/good/2812/ALINCO_DJ-100</url>
+                <price>9300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>616</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alincodj100.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-100</name>
+                <description>
+ALINCO DJ-100ALINCO DJ-100 - это современное компактное устройство сухопутной радиосвязи, соответствующее требованиям стандарта брызго и пыле защищённости IPX54. Радиостанция также соответствует военному стандарту США Mil-Std 810 раздел "G".Радиостанция Алинко DJ-100выполнена на базе надежного шасси из алюминия. Корпус средства связи изготовлен из ударопрочного пластика.Особенностью модели ALINCO DJ-100 является встроенная функция аналогового скремблера речевого канала, предотвращающая несанкцио
+                </description>
+            </offer>
+            <offer id="3743" available="true">
+                <url>
+http://www.radio-liga.ru/good/3743/BAOFENG_DM-5R_TIER2
+                </url>
+                <price>3968</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>603</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baofeng/BaofengDM-5R Tier-2.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>BAOFENG DM-5R TIER2</name>
+                <description>
+BAOFENG DM-5R TIER2Радиостанция BAOFENG DM-5R TIER2- это цифровая рация компании BAOFENG , которая является аналогом модели BAOFENG DM-5R PLUS, но теперь поддерживает работу с ретрансляторами по стандарту DMR TIER 2.BAOFENG DM-5R TIER2 сохранила все прежние достоинства предыдущей версий модели BAOFENG UV-5R. Теперь улучшенная антенна длиной 21 смв комплекте, обновленный чип RDA1846S RF IC, обеспечивает отличное шумоподавление, оптимальное качество звука с переменными условиями приема и потреблен
+                </description>
+            </offer>
+            <offer id="2869" available="true">
+                <url>http://www.radio-liga.ru/good/2869/ALINCO_DJ-MD40</url>
+                <price>19500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>632</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alinco_dmr/ALINCO DJMD40.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-MD40</name>
+                <description>
+ALINCO DJ-MD40ALINCO DJ-MD40 цифровая портативная радиостанция стандарта DMR в диапазоне частот 400-480 МГц. Рация ALINCO DJ-MD40 способна работать с выходной мощностью 5 Вт в аналоговом и цифровом режимах.Выходная мощность может быть выбрана по шкале: 5, 2,5, 1 или 0,2 Вт.Трансивер обладает 1000 каналами памяти, программируемых на 250 зон с 64 каналами в зоне.Радиостанция ALINCO DJ-MD40 выполнена на базе надежного шасси из алюминия. Корпус рации выполнен из прочного пластика и обладает классом
+                </description>
+            </offer>
+            <offer id="2870" available="true">
+                <url>http://www.radio-liga.ru/good/2870/ALINCO_DJ-AXD1</url>
+                <price>19500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>632</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alinco_dmr/alinco dj axd4 (1).jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-AXD1</name>
+                <description>
+ALINCO DJ-AXD1ALINCO DJ-AXD1- Серия портативных DMR раций,создана для работы в особо тяжелых условиях.Это прочная, надежная, соответствующая всем требованиям радиостанция.Серия портативных DMR раций ALINCO DJ-AXD1 создана для работы в особо тяжелых условиях.Радиостанции снабжены функциями, которые делают их идеальным выбором для профессиональных пользователей. Высокое качество дизайна от японской компании ALINCO, класс защиты от влаги и пыли IP 67,прекрасная четкость звука и характеристики прием
+                </description>
+            </offer>
+            <offer id="2871" available="true">
+                <url>http://www.radio-liga.ru/good/2871/ALINCO_DJ-AXD4</url>
+                <price>19500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>632</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alinco_dmr/alinco dj axd4 (1).jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-AXD4</name>
+                <description>
+ALINCO DJ-AXD4ALINCO DJ-AXD4- Серия портативных DMR раций,создана для работы в особо тяжелых условиях.Это прочная, надежная, соответствующая всем требованиям радиостанция.Серия портативных DMR раций ALINCO DJ-AXD4 создана для работы в особо тяжелых условиях.Радиостанции снабжены функциями, которые делают их идеальным выбором для профессиональных пользователей. Высокое качество дизайна от японской компании ALINCO, класс защиты от влаги и пыли IP 67,прекрасная четкость звука и характеристики прием
+                </description>
+            </offer>
+            <offer id="3651" available="true">
+                <url>http://www.radio-liga.ru/good/3651/YAESU_FT-65R</url>
+                <price>7865</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>518</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu ft65.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FT-65R</name>
+                <description>
+YAESU FT-65RПроизводитель YAESU представляет новую радиостанцию YAESU FT-65R.Радиостанция YAESU FT-65R компактная и легкая, но в тоже время прочная и надежная двухдиапазонная портативная рация. YAESU FT-65R имеет три предустановленные настройки выходной мощности 5, 2,5 и 0,5Вт., которые позволяют пользователю выбирать наиболее подходящую мощность передачи.Большой фронтальный динамик обеспечивает 1Вт выходной мощности четкого, чистого и качественного звука от YAESU.Радиостанция YAESU FT-65R осна
+                </description>
+            </offer>
+            <offer id="2872" available="true">
+                <url>http://www.radio-liga.ru/good/2872/VERTEX_VX-261</url>
+                <price>11790</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>521</categoryId>
+                <picture>http://www.radio-liga.ru/source/vertex261.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>VERTEX VX-261</name>
+                <description>
+VERTEX VX-261VERTEX STANDARD VX-261- модель носимой ,портативной радиостанции от компанииVertex.VERTEX VX 261 - это улучшенная версия рации Vertex VX-231, дополненная функцией VOX. Радиостанция VERTEX VX-261 идеально подходит для строительных, производственных, промышленных площадок, полей для гольфа, курортов, или любого другого бизнеса, который нуждается в эффективной связи и безопасность в сложных и шумных условиях. Рация VERTEX VX-261 идеально сочетает в себе богатый набор функций и прекрасн
+                </description>
+            </offer>
+            <offer id="3752" available="true">
+                <url>http://www.radio-liga.ru/good/3752/TYTERA_MD-680</url>
+                <price>7040</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>626</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/TYT_MD680.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TYTERA MD-680</name>
+                <description>
+TYTERA MD-680Цифровая радиостанция TYTERA MD-680 является надежным,многофункциональным и компактным устройством связи.TYTERA MD-680 отвечает требованниям стандарта защищенности IP67 от пыли и влаги.Радиостанция TYTERA MD-680 работает в двух режимах: цифровом и аналоговом. Основные характеристики радиостанцииTYTERA MD-680 :Память на 16 каналовCTCSS/DCSМощность до 10 ВтЦифровой вокодерAMBE+2VOXЗащищенность от пыли и влаги IP67Ёмкость аккумулятора 2200 мА/чРабота в цифровом и аналоговом режимеГру
+                </description>
+            </offer>
+            <offer id="3735" available="true">
+                <url>http://www.radio-liga.ru/good/3735/ARGUT_A-24_LED</url>
+                <price>6700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>570</categoryId>
+                <picture>http://www.radio-liga.ru/source/argut a-24 LED.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>АРГУТ А-24 LED</name>
+                <description>
+АРГУТ А-24 LEDАРГУТ А-24 LED это новая модель, которая изготовлена из ударопрочного пластика и дополнена информативным LED дисплеем.LED дисплей позволяет эффективно экономить энергию для увеличения работы радиостанции.Матрица радиостанции АРГУТ А-24 LED из особопрочных светодиодов, обеспечивает максимальную защиту от ударов и повреждений. Дисплей не виден на корпусекогда рация отключена или находится в режиме ожидания.Радиостанция Аргут А-24 LEDзапрограммирована на 32 каналапо умолчанию, однако
+                </description>
+            </offer>
+            <offer id="3195" available="true">
+                <url>http://www.radio-liga.ru/good/3195/HYTERA_TM-600</url>
+                <price>13200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>560</categoryId>
+                <picture>http://www.radio-liga.ru/source/tm-600).png</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA TM-600</name>
+                <description>
+HYTERA TM-600HYTERA TМ-600 мобильная профессиональная радиостанция обеспечивают покрытие в широком диапазоне частот: 136-174 МГц , 400-470 МГц, 450-500 МГц, 470-520 МГц, 350-400 МГHYTERA TM-600 имеет компактные габаритные размеры и небольшой вес (1 кг).В основе радиостанции HYTERA TM-600 мощное шасси из литого алюминия, защищающее электронику от механических повреждений. Нижняя часть корпуса выполнена в виде радиаторной решетки для предотвращения перегрева при длительной работе.HYTERA TМ-600 по
+                </description>
+            </offer>
+            <offer id="3219" available="true">
+                <url>http://www.radio-liga.ru/good/3219/HYTERA_TM-610</url>
+                <price>14400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>560</categoryId>
+                <picture>http://www.radio-liga.ru/source/tm610).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>HYTERA TM-610</name>
+                <description>
+HYTERA TM-610HYTERA TМ-610 компактная автомобильная радиостанция для профессионального применения.HYTERA TM-610 выпускается в 4-х модификациях, отличающихся по мощности (25/45 Вт) и рабочему диапазону (VHF или UHF). HYTERA TM-610 имеет расширенный функционал, поддерживает 128 каналов связи. На передней панели расположены большой подсвечиваемый ЖК-экран, четыре программируемые кнопки (P1-P4) для доступа к наиболее востребованным функциям и клавиши Вверх/Вниз. Максимальная выходная мощность соста
+                </description>
+            </offer>
+            <offer id="2880" available="true">
+                <url>http://www.radio-liga.ru/good/2880/YAESU_FTM-3100R</url>
+                <price>13000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>519</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu ftm3100.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FTM-3100R</name>
+                <description>
+YAESU FTM-3100RНовая аналоговая радиостанция YAESU FTM-3100R имеет прочный и компактный корпус, высокую выходную мощность (до 65 Вт), что позволяет поддерживать стабильную связь на больших расстояниях. Одной из отличительных особенностей этого нового автомобильного трансивера является наличие 3 Ваттного громкоговорителя на передней панели, который обеспечивает громкий и кристально чистый звук даже в самых шумных условиях.Оконечный усилитель мощности выходного каскада передатчика оснащён радиатор
+                </description>
+            </offer>
+            <offer id="2881" available="true">
+                <url>
+http://www.radio-liga.ru/good/2881/YAESU_FTM-3200DR
+                </url>
+                <price>18785</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>519</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu ftm3100.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FTM-3200DR</name>
+                <description>
+YAESU FTM-3200DRНовая радиостанция YAESU FTM-3200DR имеет прочный и компактный корпус, высокую выходную мощность до 65 Вт, что позволяет поддерживать стабильную связь на больших расстояниях. Одной из отличительных особенностей данного нового автомобильного трансивера является 3 Вт динамик на передней панели, который обеспечивает громкий и кристально чистый звук и создан специально для удобного и приятного общения даже в шумной обстановке.Одновременно, новый YAESU FTM-3200DR представляет собой на
+                </description>
+            </offer>
+            <offer id="3751" available="true">
+                <url>
+http://www.radio-liga.ru/good/3751/TYTERA_TH-UV_8000D
+                </url>
+                <price>3840</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>626</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/tyt th8000.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TYTERA TH-UV 8000D</name>
+                <description>
+TYTERA TH-UV8000DПортативная радиостанция TYT TH-UV 8000D является продолжением линейки одной из самых лучших производителей TYTERA.TYT TH-UV 8000D имеет встроенную клавиатуру, что упрощает доступ к функциям радиостанции, и кроме того позволяет вводить нужный диапазон вручную.Режим Dual Watch с отображением и мониторингом активности двух частот, количество каналов памяти возросло до 128, появилось множество других функций, которыми можно управлять в любом месте и в любое время даже без компьюте
+                </description>
+            </offer>
+            <offer id="3571" available="true">
+                <url>http://www.radio-liga.ru/good/3571/GRIFON_G-34</url>
+                <price>5900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>696</categoryId>
+                <picture>http://www.radio-liga.ru/source/grifon g34.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ГРИФОН G-34</name>
+                <description>
+ГРИФОН G-34ГРИФОН G-34-самая мощная радиостанция в линейке ГРИФОН.Выполнена из противоударного пластика.Имеет максимальную мощность 10 Вт, что обеспечивает максимальную дальность связи в тяжелых условиях.Радиостанция ГРИФОН G-34 в профессиональном исполнении имеет две программируемые клавиши.Качество сборки и великолепные электрические характеристики обеспечивают долговечность и надежность радиостанции при любых условиях эксплуатации.Емкость аккумулятора радиостанции ГРИФОН G-34 2200 мАч.Основны
+                </description>
+            </offer>
+            <offer id="2836" available="true">
+                <url>http://www.radio-liga.ru/good/2836/TYTERA_MD-380</url>
+                <price>7616</price>
+                <oldprice>8960</oldprice>
+                <currencyId>RUR</currencyId>
+                <categoryId>626</categoryId>
+                <picture>http://www.radio-liga.ru/source/TYTmd380.JPG</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TYTERA MD-380</name>
+                <description>
+TYTERA MD-380 DMRTYTERA MD-380 DMRвысокотехнологичная профессиональная радиостанция. Выполнена в прочном противоударном корпусе,надежна в эксплуатации,соответствует высотам достижений технологического развития радиосвязи.TYTERA MD-380 DMR определенно имеет высокий уровень защиты переговоров.Имеет функции приема и отправки текстовых сообщений с набором до 64 символов.TYTERA MD-380DMR соответствует стандартам IP54 и MIL-STD-810 которые заверяют устойчивость данной модели к падениям или ударам, рез
+                </description>
+            </offer>
+            <offer id="2837" available="true">
+                <url>http://www.radio-liga.ru/good/2837/TYTERA_MD-280</url>
+                <price>7680</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>626</categoryId>
+                <picture>http://www.radio-liga.ru/source/TYTmd280.JPG</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TYTERA MD-280</name>
+                <description>
+TYTERA MD-280Tytera MD-280DMRявляется первой цифровой радиостанцией от компании TYTERA. Данная станция работает как в аналогом режиме так и в цифровом. Рация MD-280 обеспечивает отличное качество связи. Цифровые технологии открывают новые возможности радиосвязи.Tytera MD-280DMRсоответствует стандарту защищенности MIL-STD 810, а это означает, что станция отлично переносит повышенную влажность, перепады температуры, солнечные лучи, дождь, пыль, удары.Радиостанция MD-280 имеет боковые программируем
+                </description>
+            </offer>
+            <offer id="2792" available="true">
+                <url>http://www.radio-liga.ru/good/2792/LIRA_P-110L</url>
+                <price>3490</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>604</categoryId>
+                <picture>http://www.radio-liga.ru/source/lira110l.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>LIRA P-110L</name>
+                <description>
+LIRA P-110LLIRA P-110L- это миниатюрная 16-канальная рация, которая работает в диапазоне частот от 400 до 470 МГц UHF.Радиостанция LIRA P-110Lоснащена короткой антенной, встроенным светодиодным фонариком, а также прочным корпусом.Кроме того, имеет функцию сканирования, а также возможность программировать каналы с помощью компьютера. Емкость аккумулятора 1700 мАч Li-ion.LIRA P-110Lможет работать в широком температурном диапазоне от-20 С до+60 С. Вес всего 132 гр.Технические характеристики радиост
+                </description>
+            </offer>
+            <offer id="2793" available="true">
+                <url>http://www.radio-liga.ru/good/2793/LIRA_P-112L</url>
+                <price>3490</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>604</categoryId>
+                <picture>http://www.radio-liga.ru/source/lira112l.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>LIRA P-112L</name>
+                <description>
+LIRA P-112LLIRA P-112L- это 16-канальная мини радиостанция, которая имеет частотный диапазон: 400-470 МГц.LIRA P-112L оснащена громким динамиком, светодиодным фонариком, голосовой активацией VOX, а также съемной антенной.Может работать в сложных погодных условиях. Имеет ремешок для ношения на запястье. Температурный диапазон от -20 до +60 C.LIRA P-112L небольшие компактные размеры, а также небольшой вес 162 гр.Технические характеристики радиостанцииLIRA-112L:Диапазон частотпрограммируется весь д
+                </description>
+            </offer>
+            <offer id="2794" available="true">
+                <url>http://www.radio-liga.ru/good/2794/LIRA_P-210L</url>
+                <price>4490</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>604</categoryId>
+                <picture>http://www.radio-liga.ru/source/lira210l.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>LIRA P-210L</name>
+                <description>
+LIRA P-210LLIRA P-210L- это карманная 16-канальная рация, которая имеет мощность до 3 Ватт. Частотный диапазон: 400-470 МГц. Мощность аудиовыхода: 500 мВт. LIRAP-210L имеет компактную антенну и ударопрочный корпус.LIRAP-210L оснащена технологией сканирования каналов. Может работать в сложных погодных условиях. Температурный диапазон от-20 до +60 C.LIRAP-210Lимеет компактный размер и легкий вес 195 гр.Технические характеристики радиостанцииLIRA P-210L:Диапазон частот UHF400-470MHzКоличество канал
+                </description>
+            </offer>
+            <offer id="2795" available="true">
+                <url>http://www.radio-liga.ru/good/2795/LIRA_P-280L</url>
+                <price>5150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>604</categoryId>
+                <picture>http://www.radio-liga.ru/source/lira280l.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>LIRA P-280L</name>
+                <description>
+LIRA P-280LLIRAP-280L- это 199 канальная рация, которая имеет частотный диапазон: 400-470 МГц, выходная мощность до 3 Ватт. LIRAP-280L имеет ЖК-дисплей с подсветкой, голосовую активацию VOX, фонарик, и кроме того, функцию шумоподавления CTCSS/DCS. LIRAP-280Lможет работать в тяжелых погодных условиях. LIRAP-280L способна работать в энергосберегающем режиме. Температурный диапазон от -20 до +60 С. Имеет легкий вес 220 гр.Технические характеристики радиостанцииLIRA P-280L:Диапазон частот UHF400-470
+                </description>
+            </offer>
+            <offer id="2796" available="true">
+                <url>http://www.radio-liga.ru/good/2796/LIRA_P-312</url>
+                <price>4990</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>604</categoryId>
+                <picture>http://www.radio-liga.ru/source/lira312.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>LIRA P-312</name>
+                <description>
+LIRA P-312LIRAP-312 - это 16-канальная минирация, которая имеет частотный диапазон: 400-470 МГц.LIRAP-312 оснащена технологией программирования с компьютера. Имеет световой индикатор, антенну, клипсу, а также ударопрочный корпус. Кроме того, имеет удобный ремешок на руку. Мощность аудиовыхода: 500 мВт. Вес прибора составляет 240 гр.Техничекие характеристики радиостанции LIRA P-312:Частотный диапазон400-470MHzКоличество каналов16Разнос каналов25 кГц / 12,5 кГцРабочая температура-20 ? ~ +60 ?Сопро
+                </description>
+            </offer>
+            <offer id="2797" available="true">
+                <url>http://www.radio-liga.ru/good/2797/LIRA_P-510H</url>
+                <price>5990</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>604</categoryId>
+                <picture>http://www.radio-liga.ru/source/lira510.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>LIRA P-510H</name>
+                <description>
+LIRA P-510HLIRA P-510H- это 16-канальная рация, с выходной мощностью передатчика до 7-8 Вт.LIRA P-510H оснащена динамиком и УНЧ, автоматическим шумоподавителем, антенной, адаптером, а также таймером ограничения передачи.LIRA P-510H имеет технологию сканирования каналов и светодиодным фонариком. Диапазон частот: 400-470МГц. Также, имеет ремешок для ношения на запястье. Может работать в достаточно суровых условиях. Температурный диапазон от -20 до +60 С. Имеет легкий вес 238 гр.Технические характе
+                </description>
+            </offer>
+            <offer id="2798" available="true">
+                <url>http://www.radio-liga.ru/good/2798/LIRA_P-510V</url>
+                <price>5990</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>604</categoryId>
+                <picture>http://www.radio-liga.ru/source/lira510.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>LIRA P-510V</name>
+                <description>
+LIRA P-510VLIRA P-510V- это 16-канальная рация, с выходной мощностью передатчика до 7-8 Вт.LIRA P-510V оснащена динамиком и УНЧ, автоматическим шумоподавителем, антенной, адаптером, а также таймером ограничения передачи. Имеет технологию сканирования каналов и светодиодным фонариком. Диапазон частот:146-174 МГц. Также, имеет ремешок для ношения на запястье. Может работать в достаточно суровых условиях. Температурный диапазон от -20 до +60 С. Имеет легкий вес 238 гр.Технические характеристики рад
+                </description>
+            </offer>
+            <offer id="2799" available="true">
+                <url>http://www.radio-liga.ru/good/2799/LIRA_P-580_UV</url>
+                <price>7490</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>604</categoryId>
+                <picture>http://www.radio-liga.ru/source/lira580.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>LIRA P-580 UV</name>
+                <description>
+LIRA P-580UVLIRA P-580 UV- это VHF/UHF рация с мощностью передатчика 5 Вт.LIRA P-580 UVимеет 199 каналов. Прием и передача 146-174 МГц и 400-470 МГц, диапазон приема частот 87-108 МГц.LIRA P-580 UVоснащена голосовой активизацией через гарнитуру (VOX), функцией нажми и говори и сканирование каналов. Кроме того, прибор имеет антенну, встроенный фонарик, а также дисплей. Температурный диапазон работ от -20 до +60 C. Имеет компактный размер и легкий вес 248 гр.Технические характеристики радиостанции
+                </description>
+            </offer>
+            <offer id="2820" available="true">
+                <url>
+http://www.radio-liga.ru/good/2820/ALINCO_DR-135CBA
+                </url>
+                <price>17000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/ALINCODR 135CBA.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-135CBA</name>
+                <description>
+ALINCO DR-135CBAALINCO DR-135CBA- новая радиостанция гражданского CB диапазона будет интересен в первую очередь радиолюбителям.Широкий функциональный набор на уровне радиолюбительских радиостанций позволит проводить не только локальные радиосвязи, но и связываться на тысячи километров используюя эффект отражения радиоволн от ионосферы. Режимы однополосной модуляции SSB, и телеграфного ключа PA (азбука Морзе) позволяют увеличить дальность радиосвязи в несколько раз при той же мощности передатчика
+                </description>
+            </offer>
+            <offer id="2821" available="true">
+                <url>http://www.radio-liga.ru/good/2821/ALINCO_DR-138</url>
+                <price>17900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/ALINCODR 138.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-138</name>
+                <description>
+ALINCO DR-138ALINCO DR-138 - радиостанция от компании Alinco,она простая и надежная в эксплуатации . Отличается хорошим качеством, профессиональными параметрами связи, надёжностью и дизайном. ALINCO DR-138 работает в VHF диапазоне частот 136-174 МГц. Автомобильная станция обладает уровнем мощности излучения - от 10 Вт до 60 Вт.Режим максимальной мощности способен обеспечивать связь на значительном расстоянии, а экономичный режим обеспечивает низкое энергопотребление трансивера.Голосовой компанде
+                </description>
+            </offer>
+            <offer id="2822" available="true">
+                <url>http://www.radio-liga.ru/good/2822/ALINCO_DR-138S</url>
+                <price>18900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/ALINCODR 138.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-138S</name>
+                <description>
+ALINCO DR-138SALINCO DR-138S - новинка от компании Alinco, это простая и надежная в эксплуатации рация. Отличается хорошим качеством, профессиональными параметрами связи, надёжностью и дизайном. ALINCO DR-138S работает в VHF диапазоне частот 136-174 МГц. Автомобильная станция обладает уровнем мощности излучения - от 10 Вт до 60 Вт.Режим максимальной мощности способен обеспечивать связь на значительном расстоянии, а экономичный режим обеспечивает низкое энергопотребление трансивера.Голосовой комп
+                </description>
+            </offer>
+            <offer id="2823" available="true">
+                <url>
+http://www.radio-liga.ru/good/2823/ALINCO_DR-135T_MKIII
+                </url>
+                <price>22100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/ALINCODR 135TMKIII.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-135T MKIII</name>
+                <description>
+ALINCO DR-135T MKIIIALINCO DR-135T MKIII - это простая современная автомобильная радиостанция.Удобство в работе с базовой рацией ALINCO DR-135T MKIII обеспечивает большой жидкокристаллический дисплей, имеющий 3 режима работы, и микрофон с DTMF-клавиатурой. В стационарной радиостанции ALINCO DR-135T MKIII буквенно-цифровой дисплей с подсветкой, который отображает частоту. В рации ALINCO DR-135T MKIII есть 3 режима работы по мощности низкий, высокий, среднийБазовая станция ALINCO DR-135T MKIII пор
+                </description>
+            </offer>
+            <offer id="2824" available="true">
+                <url>http://www.radio-liga.ru/good/2824/ALINCO_DR-135FX</url>
+                <price>19800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/alinco135.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-135FX</name>
+                <description>
+ALINCO DR-135FXРадиостанция ALINCO DR-135F предназначена для использования в сетях мобильной радиосвязи. У рации Alinco DR-135F большой подсвечиваемый жидкокристаллический дисплей, у которого три различных режима отображения..Радиостанция Alinco DR-135FX относится к современным автомобильным станциям. В процессе эксплуатации радиостанции Алинко DR-135F пользователем выбирать 2 разных режима приема ФМ сигнала: обычный, узкий. Радиостанция Alinco DR-135F имеет в наличие функцию контроля напряжения
+                </description>
+            </offer>
+            <offer id="2825" available="true">
+                <url>
+http://www.radio-liga.ru/good/2825/ALINCO_DR-B185R_NEW
+                </url>
+                <price>19800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/ALINCODRB 185R .jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-B185R NEW</name>
+                <description>
+ALINCO DR-B185R NEWAlinco DR-B 185RNEW - новая модель от компании Alinco.. ALINCO DR-B185-RNEW функционирует в VHF диапазоне частот 136-174 МГц. Устройство связи имеет программируемый уровень мощности излучения - от 5 Вт до 85 Вт.Большой алфавитно-цифровой ЖКИ-матричный экран с регулируемой яркостью отображает все необходимые параметры о работе трансивера: рабочий канал, буквенно-цифровое имя канала, VFO частота на выбор любого из режимов отображения. Кнопки управления также подсвечиваются. DTMF
+                </description>
+            </offer>
+            <offer id="2828" available="true">
+                <url>http://www.radio-liga.ru/good/2828/ALINCO_DR-438</url>
+                <price>17900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/alincoDR-438.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-438</name>
+                <description>
+ALINCO DR-438ALINCO DR-438 - новая автомобильная рация от компании ALINCO.Многофункциональная станция ALINCO DR-438 работает в диапазоне частот 400~470 МГц. Мощность радиостанции от 10 Вт до 45 Вт,что обеспечивает связь на значительном расстоянии. .Голосовой компандер в радиостанции ALINCO DR-438 повышает качество голоса и подавляет помехи в аудиоканале.Большой буквенно-цифровой жидкокристаллический дисплей с семью разновидностями подсветки LCD дисплея. Кнопки управления на трансивере также подс
+                </description>
+            </offer>
+            <offer id="2829" available="true">
+                <url>http://www.radio-liga.ru/good/2829/ALINCO_DR-435T</url>
+                <price>22100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/ALINCODR 435T.png
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-435T</name>
+                <description>
+ALINCO DR-435TРадиостанция ALINCO DR-435T занимает высокие позиции по стандартам легкости и управления. Из достоинств рации можно отметить хорошо читаемый жидкокристаллический дисплей, работающий в трех режимах и выносную тангенту с DTMF-клавишами. В продолжении обзора возимой радиостанции Alinco DR-435T стоит выделить три различных режима работы ЖК-дисплея: частоты, номер и семизначное буквенно-цифровое название канала отображаются на большой панели LCD экрана. Для удобства чтения информации на
+                </description>
+            </offer>
+            <offer id="2830" available="true">
+                <url>
+http://www.radio-liga.ru/good/2830/ALINCO_DR-435FX_
+                </url>
+                <price>19200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/ALINCODR 435T.png
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-435FX</name>
+                <description>
+ALINCO DR-435FX AlLINCO DR-435FXмногофункциональная радиостанция для установки в автомобиле или в стационарном положении.Радиостанция работает в диапазоне частот RX 350-512 МГц и TX 400-480 МГц, имеет 100 каналов памяти, которым могут быть присвоены буквенно-цифровые обозначения длиной до 7 символов.Корпус выполнен из высококачественных материалов, которые способствуют эффективному отведению тепла и обеспечивают долговечную работу устройства.Большой ЖК дисплей работает в 3-х режимах, отображая ч
+                </description>
+            </offer>
+            <offer id="2831" available="true">
+                <url>http://www.radio-liga.ru/good/2831/ALINCO_DR-135LH</url>
+                <price>23300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/ALINCODR 135LH.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-135LH</name>
+                <description>
+ALINCO DR-135LHALINCO DR-135LH автомобильная радиостанция, работающая в диапазоне 40-59 МГц, который может быть расширен в нижнюю сторону вплоть до 30 МГц. Перечень моделей, выпускаемых для работы в Low Band диапазоне, достаточно короток, и Alinco DR-135LH занимает в нем почетное место. Станция доказала свою надежность и высокое качество связи, завоевав доверие широкого круга потребителей.Радиостанция представляет собой компактное устройство из высококачественного пластика. Каркасом корпуса служ
+                </description>
+            </offer>
+            <offer id="2832" available="true">
+                <url>http://www.radio-liga.ru/good/2832/ALINCO_DR-M06R</url>
+                <price>23300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>617</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alico_baz/ALINCODR M06R.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DR-M06R</name>
+                <description>
+ALINCO DR-M06RALINCO DR-M06R- радиостанция диапазона40-60 МГц, с выходной мощностью до 50 Вт. Автомобильная радиостанция Alinco DRM06 разработана для профессионального применения в диапазоне Low Band.Модель оснащена большим ЖК-экраном с подсветкой для удобной работы в темноте, комфортной работе также способствует простое управление и различные вспомогательные функции.Рация может вместить до 100 каналов, а с платой расширения памяти и дополнительной платой декодера EJ-20U, обеспечивающей селектив
+                </description>
+            </offer>
+            <offer id="2834" available="true">
+                <url>http://www.radio-liga.ru/good/2834/ALINCO_DX-SR-08</url>
+                <price>57500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>618</categoryId>
+                <picture>http://www.radio-liga.ru/source/ALINCODXSR08.png</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DX-SR-08</name>
+                <description>
+ALINCO DX-SR-08Современный трансивер ALINCO DХ-SR-08 работает на всех любительских VHF и HF частотах от 160 до 10 метров в модуляциях SSB, CW, FM, АМ.Устройство можно использовать в стационарном положении дома или в офисе, в автомобиле или на выезде. Съемная передняя панель может работать отдельно от приемо-передатчика, будучи соединенной с ним специальным кабелем.Станция оборудована большим, хорошо читаемым дисплеем с мягкой подсветкой, 5-ю регуляторами настроек и кнопочной клавиатурой. Банк па
+                </description>
+            </offer>
+            <offer id="2835" available="true">
+                <url>http://www.radio-liga.ru/good/2835/ALINCO_DX-SR-09</url>
+                <price>64800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>618</categoryId>
+                <picture>http://www.radio-liga.ru/source/ALINCODXSR09.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DX-SR-09</name>
+                <description>
+ALINCO DX-SR-09Коротковолновой трансивер ALINCO DX-SR-09 отличается простым управлением и понятным интерфейсом. Работает во всех коротковолновых диапазонах и имеет хорошую защиту от перегрева.Трансивер ALINCO DX-SR-09 оснащен удобным дисплеем, на котором отображается вся нужная информация.Выходная мощность трансивера ALINCO DX-SR-09 регулируется от 2 до 100 Вт. Для защиты от помех в данном трансивере присутствует аттенюатор, возможность регулировки усиления, расстройка частот, узкополосный фильт
+                </description>
+            </offer>
+            <offer id="2838" available="true">
+                <url>http://www.radio-liga.ru/good/2838/TYTERA_DP-290</url>
+                <price>4800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>626</categoryId>
+                <picture>http://www.radio-liga.ru/source/TYTdp290.JPG</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TYTERA DP-290</name>
+                <description>
+Дешевая цифровая радиостанцияTYTERA DP-290TYTERA DP-290 удобная переносная радиостанция имеющая открытый стандарт DPMR. Обеспечиваетработу двух независимых тайм-слотов,как в режиме работы через ретранслятор, так и вобычном симплексномрежиме.(Digital Private Mobile Radio) открытый стандартETSIцифровых системпредставленый в 2006 году.Использует технологиюмногостанционного доступа с частотным разделением каналовFDMA(Frequency Division Multiple Access), принятый ETSI в качестве европейского (ETSI T
+                </description>
+            </offer>
+            <offer id="3142" available="true">
+                <url>
+http://www.radio-liga.ru/good/3142/PRESIDENT_BARRY_ASC_1224_V
+                </url>
+                <price>5760</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>571</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/Presedentbarry1.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>PRESIDENT BARRY ASC 12/24 V</name>
+                <description>
+PRESIDENT BARRY ASC 12/24 VРадиостанция PRESIDENT BARRY 12/24V ASC (аналог европейской версии PRESIDENT ANDI AM/FM ASC) для водителей дальнобойщиков и для применения в агропромышленном комплексе.PRESIDENTBARRYASC в этой радиостанции учтены все пожелания всех потребителей.Основные характеристикиPRESIDENT BARRY 12/24V ASC:40 каналовАМ/FMПольская и Европейская сетки (0 и 5)Автоматическое переключение каналов 9/19 Регулятор громкости и Вкл/Выкл Ручной и автоматический шумоподавительASCТайме
+                </description>
+            </offer>
+            <offer id="3172" available="true">
+                <url>http://www.radio-liga.ru/good/3172/TURBOSKY_T9</url>
+                <price>2480</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>680</categoryId>
+                <picture>http://www.radio-liga.ru/source/TURBOSKYT9).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TURBOSKY T9</name>
+                <description>
+TURBOSKY T9TURBOSKY T9 портативная радиостанция, которая выполнена в ярком современном дизайне. TURBOSKY T9 подойдет для работы каждый день в различных условиях.Плюсами TURBOSKY T9 можно назвать наличие встроенных кодов CTCSS/DCS, регулируемый шумоподавитель и блокировка работы на занятом канале.На программируемые кнопки можно настроить функции, которые используются чаще остальных.Основные характеристикиTURBOSKY T9 :Яркий дизайнПереключение мощности передачиАварийный сигнал (SOS)Пыле-влагозащита
+                </description>
+            </offer>
+            <offer id="3173" available="true">
+                <url>http://www.radio-liga.ru/good/3173/TURBOSKY_T8</url>
+                <price>2580</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>680</categoryId>
+                <picture>http://www.radio-liga.ru/source/TURBOSKYT8).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TURBOSKY T8</name>
+                <description>
+TURBOSKY T8TURBOSKY T8 портативная радиостанция, которая выполнена в прочном корпусе. TURBOSKY T8 обладаетбольшим списком возможностей, подходящих для решения многих задач.Компактные размеры позволяют удобно держать рацию в руке.Система подавления шумов блокирует атмосферные шумы. С помощью функции VOX можно автоматически перейти в режим передачи, не отвлекаясь от основного дела.Рация TURBOSKY T8 проста в управлении и подойдет для использования во многих сферах.Основные характеристикиTURBOSKY T8
+                </description>
+            </offer>
+            <offer id="3174" available="true">
+                <url>http://www.radio-liga.ru/good/3174/TURBOSKY_T7</url>
+                <price>3200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>680</categoryId>
+                <picture>http://www.radio-liga.ru/source/TURBOSKYT7).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TURBOSKY T7</name>
+                <description>
+TURBOSKY T7TURBOSKY T7 портативные радиостанции обеспечивают стабильную связь в диапазоне частот 400-470 МГц. Надежная конструкция защищает станцию от внешних воздействий.Стоит отметить такие функциональные возможности, как CTCSS/DCS коды, шумоподавитель, режим экономии энергии АКБ. Функция VOX позволит активировать передачу голосом.TURBOSKY T7 имеет программируемые клавиши, которые расширяют возможности радиостанции .Основные характеристикиTURBOSKY T7:Стандарт защищенности от пыли и влаги IP54С
+                </description>
+            </offer>
+            <offer id="3175" available="true">
+                <url>http://www.radio-liga.ru/good/3175/TURBOSKY_T6</url>
+                <price>3950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>680</categoryId>
+                <picture>http://www.radio-liga.ru/source/TURBOSKYT6).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TURBOSKY T6</name>
+                <description>
+TURBOSKY T6TURBOSKY T6 портативная радиостанция в прочном корпусе, с простым управлением. Благодаря своим размерам станция удобно лежит в руке.TURBOSKY T6 имеет функцию VOX, благодаря которой можно вести передачу без помощи рук. Функция сканирования каналов позволит отслеживать каналы связи на наличие полезного сигнала.Программируемые клавиши расширяют возможности радиостанции TURBOSKY T6.Основные характеристикиTURBOSKY T6:Пыле-влагозащита IP54Шифрование сигналаСканирование каналовТаймера ограни
+                </description>
+            </offer>
+            <offer id="3176" available="true">
+                <url>http://www.radio-liga.ru/good/3176/TURBOSKY_T5</url>
+                <price>5950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>680</categoryId>
+                <picture>http://www.radio-liga.ru/source/TURBOSKYT5).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TURBOSKY T5</name>
+                <description>
+TURBOSKY T5Радиостанция TURBOSKY T5 выпускается в прочном корпусе. TURBOSKY T5 обладает подсвечиваемым дисплеем и клавиатурой, что значительно облегчает работу в темноте.Мощный динамик обеспечивает громкий и четкий звук. Рация TURBOSKY T5 соответствует стандарту защищенности IP54. На программируемые клавиши можно настроить необходимые функции.TURBOSKY T5 имеет систему шумоподавления, которая защитит от ненужных шумов. Уровень мощности передатчика можно настроить в зависимости от ситуации.Основны
+                </description>
+            </offer>
+            <offer id="3177" available="true">
+                <url>http://www.radio-liga.ru/good/3177/TURBOSKY_T4</url>
+                <price>5400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>680</categoryId>
+                <picture>http://www.radio-liga.ru/source/TURBOSKYT4).jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TURBOSKY T4</name>
+                <description>
+TURBOSKY T4TURBOSKY T4 портативная радиостанция, которая выполнена в строгом современном дизайне. Станция соответствует стандарту защищенности IP54.Рация TURBOSKY T4удачно сочетает в себенеобходимый функционал и хорошие технические характеристики. TURBOSKY T4имеет программируемые клавиши для необходимых функций.Для радиостанции TURBOSKY T4можно подобрать широкий ассортимент аксессуаров.Основные характеристикиTURBOSKY T4 :Скремблер (шифратор)Компандер (повышение качества голоса)Пыле-влагозащита I
+                </description>
+            </offer>
+            <offer id="3178" available="true">
+                <url>http://www.radio-liga.ru/good/3178/TURBOSKY_T3</url>
+                <price>4500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>680</categoryId>
+                <picture>http://www.radio-liga.ru/source/TURBOSKYT3).png</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TURBOSKY T3</name>
+                <description>
+TURBOSKY T3Портативная радиостанция TURBOSKY T3-отличный и недорогой вариант для работы на стройке, в охранных организациях, любителям спорта и активного отдыха.Частотный диапазон работы рации составляетот 400 до 480 МГцс возможностью использования безлицензионных LPD и PMR каналов.Весь функционал рацииTURBOSKY T3программируется с помощью специальной программы, доступной для загрузки. С её помощью можно настроить частотные каналы памяти, настройки шумоподавления, репитерные смещения частот приём
+                </description>
+            </offer>
+            <offer id="3179" available="true">
+                <url>http://www.radio-liga.ru/good/3179/TURBOSKY_R2</url>
+                <price>4500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>680</categoryId>
+                <picture>http://www.radio-liga.ru/source/TURBOSKYR2).png</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TURBOSKY R2</name>
+                <description>
+TURBOSKY R2Портативная радиостанция TURBOSKY R2 очень удобна и рассчитана на любительское использованиеРадиостанция TURBOSKY R2 имеет надежную конструкцию, поэтому рация не ломается от ударов и падений, за счет чего хорошо подойдет для использования и на стройке, и на активном отдыхе. Корпус рации TURBOSKY R2 имеет удобное фиксирующее крепление.В комплект поставки входит качественный Li-Ion аккумулятор повышенной емкости, заряда которого хватает на сутки в режиме работы.Основные харатеристики TU
+                </description>
+            </offer>
+            <offer id="3180" available="true">
+                <url>http://www.radio-liga.ru/good/3180/COMRADE_R1</url>
+                <price>3980</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>681</categoryId>
+                <picture>http://www.radio-liga.ru/source/COMRADE R1.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>COMRADE R1</name>
+                <description>
+COMRADE R1Радиостанции COMRADE R1 - самая компактная по габаритам модель в семействе раций Comrade.. Приемопередатчик COMRADE R1 работает в диапазоне частот 400-470 МГц с поддержкой безлицензионных LPD/PMR диапазонов, с выходной мощностью 2 Вт, имеет 16 каналов памяти и аккумуляторной батареей ёмкостью 1250 мАч.Радиостанция COMRADE R1 прекрасно подойдёт для любого вида деятельности, ресторанов, офисов, магазинов и кафе.Как приятное дополнение в рации COMRADE R1 есть светодиодный фонарик.Основные
+                </description>
+            </offer>
+            <offer id="3181" available="true">
+                <url>http://www.radio-liga.ru/good/3181/COMRADE_R3</url>
+                <price>6900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>681</categoryId>
+                <picture>http://www.radio-liga.ru/source/COMRADE R3.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>COMRADE R3</name>
+                <description>
+COMRADE R3Радиостанция COMRADE R 3 выполнена в соответствии с современными техническими разработками. Современная радиостанция COMRADE R 3 работает в диапазоне 400-470 МГц с выходной мощностью до 5 Ватт.16 программируемых каналов памяти обеспечивают быстрое переключение между часто используемыми частотами. Носимая станция COMRADE R 3 имеет водонепроницаемую конструкцию в соответствии с IP66 и позволяет находиться в режиме ожидания до 120 часов.COMRADE R 3 выполнена в прочном корпусе с резиновыми
+                </description>
+            </offer>
+            <offer id="3182" available="true">
+                <url>http://www.radio-liga.ru/good/3182/COMRADE_R4</url>
+                <price>5500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>681</categoryId>
+                <picture>http://www.radio-liga.ru/source/COMRADE R4.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>COMRADE R4</name>
+                <description>
+COMRADE R4Высококачественная радиостанция COMRADE R4 профессионального уровня работает в диапазоне 400-470 МГц с выходной мощностью до 6 Ватт на участке безлицензионных частот, обеспечивая максимально эффективную связь. 16 программируемых каналов памяти позволяют быстро переключаться между часто используемыми предустановленными частотами.При выборе канала рация автоматически будет озвучивать номер текущего канала. Озвучивание происходит на двух я зыках: английском и китайском. Данная функция сох
+                </description>
+            </offer>
+            <offer id="3183" available="true">
+                <url>http://www.radio-liga.ru/good/3183/COMRADE_R5</url>
+                <price>11500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>681</categoryId>
+                <picture>http://www.radio-liga.ru/source/COMRADE R5.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>COMRADE R5</name>
+                <description>
+COMRADE R5Портативная радиостанция COMRADE R5 имеет строгий и современный дизайн, необходимый функционал и качественную связь, которая обеспечивает сигнал в шумной обстановке.Высококачественная радиостанция COMRADE R5 профессионального уровня снабжена самым современным Литий-Полимерным (Li-Pol) аккумулятором повышенной ёмкости 2800 мАч, что обеспечит долгое время автономной работы от одного заряда.Рация COMRADE R5 выполнена в прочном и эргономичном монолитном корпусе, что позволяет использовать
+                </description>
+            </offer>
+            <offer id="3184" available="true">
+                <url>http://www.radio-liga.ru/good/3184/COMRADE_R6</url>
+                <price>13800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>681</categoryId>
+                <picture>http://www.radio-liga.ru/source/COMRADE R6.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>COMRADE R6</name>
+                <description>
+COMRADE R6COMRADE R6 - самая мощная и функциональная рация из линейки COMRADE профессионального уровня. В прочном монолитном корпусе заключена современная элементная база и богатый программируемый функционал. Рация COMRADE R6 предназначена для общения в диапазоне 400-470 МГц с выходной мощностью до 7 Ватт на участке безлицензионных частот, обеспечивая максимально эффективную связь.16 программируемых каналов памяти позволяют быстро переключаться между часто используемыми предустановленными частот
+                </description>
+            </offer>
+            <offer id="3185" available="true">
+                <url>http://www.radio-liga.ru/good/3185/COMRADE_R7</url>
+                <price>6900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>681</categoryId>
+                <picture>http://www.radio-liga.ru/source/COMRADE R7.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>COMRADE R7</name>
+                <description>
+COMRADE R7Портативная радиостанция COMRADE R7 работает в диапазоне 400-480 МГц, с возможностью использования безлицензионных LPD и PMR каналов, обладает компактными размерами и мощностью до 5 Вт. Радиостанция COMRADE R7 оснащена Li-Ion аккумулятором емкостью 1900 мАч.Оповещение о низком заряде батареи вовремя сообщит о необходимости подзарядки рации. Радиостанция COMRADE R7 обеспечивает надежность и высокое качество связи.Рация COMRADE R7 поддерживает переключение передатчика на низкую или высок
+                </description>
+            </offer>
+            <offer id="3186" available="true">
+                <url>http://www.radio-liga.ru/good/3186/COMRADE_R7VHF</url>
+                <price>6900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>681</categoryId>
+                <picture>http://www.radio-liga.ru/source/COMRADE R7.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>COMRADE R7VHF</name>
+                <description>
+COMRADE R7VHFПортативная радиостанция COMRADE R7 работает в диапазоне 136-174МГц,, обладает компактными размерами и мощностью до 5 Вт. Радиостанция COMRADE R7 оснащена Li-Ion аккумулятором емкостью 1900 мАч.Оповещение о низком заряде батареи вовремя сообщит о необходимости подзарядки рации. Радиостанция COMRADE R7 обеспечивает надежность и высокое качество связи.Рация COMRADE R7 поддерживает переключение передатчика на низкую или высокую мощность в зависимости от того нужна ли максимальная длите
+                </description>
+            </offer>
+            <offer id="3187" available="true">
+                <url>http://www.radio-liga.ru/good/3187/COMRADE_R8</url>
+                <price>7500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>681</categoryId>
+                <picture>http://www.radio-liga.ru/source/COMRADE R8.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>COMRADE R8</name>
+                <description>
+COMRADE R8Портативная радиостанция COMRADE R8 профессионального уровня работает в диапазоне 400-470 МГц с выходной мощностью до 5 Ватт на участке безлицензионных частот, обеспечивая максимально эффективную связь.Рация COMRADE R8 поддерживает переключение передатчика на низкую или высокую мощность в зависимости от того нужна ли максимальная длительность работы, либо дальность.. Отличительными особенностями рации COMRADE R8 являются интуитивно понятное программное обеспечение, позволяющее гибко на
+                </description>
+            </offer>
+            <offer id="3188" available="true">
+                <url>
+http://www.radio-liga.ru/good/3188/COMRADE_R6_DIGITAL
+                </url>
+                <price>16900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>681</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/COMRADE R6 DIGITAL.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>COMRADE R6 DIGITAL</name>
+                <description>
+COMRADE R6 DIGITALЦифровая радиостанция COMRADE R6 DIGITAL является надежным, многофункциональным и компактным устройством связи. Данная модель отвечает требованниям стандарта защищенности IP65 от пыли и влаги.Рация COMRADE R6 DIGITAL работает в двух режимах: цифровом и аналоговом. Из функциональных особенностей стоит выделить возможность отправки заранее запрограммированного сообщения. Можно запрограммировать до 5 сообщений.Доступна фунция удаленного аварийного сигнала, суть которой заключается
+                </description>
+            </offer>
+            <offer id="3250" available="true">
+                <url>http://www.radio-liga.ru/good/3250/GRIFON_G-6</url>
+                <price>3600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>696</categoryId>
+                <picture>http://www.radio-liga.ru/source/grifong6.png</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ГРИФОН G-6</name>
+                <description>
+ГРИФОН G-6ГРИФОН G-6 ,радиостанция с жидкокристаллическим двухстрочным дисплеем, работающая в двух диапазонах частот: 136-174 МГц (VHF) и 400-470 МГц (UHF).ГРИФОН G-6 имеет 128 каналов связи и широкий функционал.Производитель рации - компанияАРГУТ, выпускающая модели также и под этим именем, предлагает компактную современную модель с впечатляющим соотношением цены и качества.ГРИФОН G-6имеет встроенный радиоприемник (65 -108 МГц), включает 105 кодов DCS и 50 кодов CTCSS (программируемые), функцию
+                </description>
+            </offer>
+            <offer id="3251" available="true">
+                <url>http://www.radio-liga.ru/good/3251/GRIFON_G-45</url>
+                <price>4000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>696</categoryId>
+                <picture>http://www.radio-liga.ru/source/grifong45.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ГРИФОН G-45</name>
+                <description>
+ГРИФОН G-45Портативная рацияГРИФОН G-45работает в диапазоне 400-470 МГц, включая LPD и PMR каналы, с выходной мощностью до 5 Ватт.ГРИФОН G-45 отлично подходит как для охоты и рыбалки, туризма и путешествий, так и для использования в служебных целях с возможностью установки смещения частот приёма и передачи для работы через репитер, установки тонового кодирования и другие необходимые функции.РацияГРИФОН G-45 программируется с компьютера при помощи программного обеспечения для ОС Windows.РацияГРИФ
+                </description>
+            </offer>
+            <offer id="3252" available="true">
+                <url>http://www.radio-liga.ru/good/3252/GRIFON_G-44</url>
+                <price>2200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>696</categoryId>
+                <picture>http://www.radio-liga.ru/source/grifong44.jpg</picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ГРИФОН G-44</name>
+                <description>
+ГРИФОН G-44ГРИФОН G 44 - бюджетная радиостанция UHF-диапазона. Рация работает с 16 каналами связи и отличается низкой ценой.ГРИФОН G-44 полноценная портативная радиостанция по выгодной цене от отечественного производителя.Рация ГРИФОН G44 подойдет как работникам охранной отрасли, так и рыболовам и путешественникам.Модель ГРИФОН G44 получилась достаточно маленькой и легкой, прекрасно лежит в руке , органы управления радиостанции находятся в быстро доступных местах. За свою небольшую цену радиоста
+                </description>
+            </offer>
+            <offer id="3608" available="true">
+                <url>http://www.radio-liga.ru/good/3608/BAYKAL-10</url>
+                <price>5760</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>723</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baikal/baikal10.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>БАЙКАЛ-10</name>
+                <description>
+БАЙКАЛ-10 VHFБАЙКАЛ-10-портативная,безлицензионная радиостанция.Имеет усовершенствованный эргономичный дизайн и снабжена функциями.БАЙКАЛ-10 прекрасно подойдет для различных целей клиентов благодаря обеспечению высококачественной связи и прекрасной совместимости.Производитель и мы уверенны,что вы останетесь довольны ее отличными техническими характеристиками.Диапазон частот 136-174МГц, 16 каналов, 10 Вт, 3600 мАч, зарядное устройство,антенна.Основные характеристики радиостанцииБАЙКАЛ-10:Диапазон
+                </description>
+            </offer>
+            <offer id="3609" available="true">
+                <url>http://www.radio-liga.ru/good/3609/BAYKAL-10</url>
+                <price>5760</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>723</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baikal/baikal10.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>БАЙКАЛ-10</name>
+                <description>
+БАЙКАЛ-10 UHFБАЙКАЛ-10-портативная,безлицензионная радиостанция.Имеет усовершенствованный эргономичный дизайн и снабжена функциями.БАЙКАЛ-10 прекрасно подойдет для различных целей клиентов благодаря обеспечению высококачественной связи и прекрасной совместимости.Производитель и мы уверенны,что вы останетесь довольны ее отличными техническими характеристиками.Диапазон частот 400 - 520МГц, 16 каналов, 10 Вт, 3600 мАч, зарядное устройство,антенна.Основные характеристики радиостанцииБАЙКАЛ-10:Диапаз
+                </description>
+            </offer>
+            <offer id="3610" available="true">
+                <url>http://www.radio-liga.ru/good/3610/BAYKAL-17</url>
+                <price>4032</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>723</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baikal/baikal17.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>БАЙКАЛ-17</name>
+                <description>
+БАЙКАЛ-17 VHFБАЙКАЛ-17 профессиональная портативная радиостанция, модель представляет новые технологии в области радиотехники. БАЙКАЛ-17 объединяет качество и функциональность, чтобы удовлетворить потребности в надежной радиосвязи и сделать более комфортной жизнь и работу пользователей. Радиостанция БАЙКАЛ-17 может применяться как коммерческих, так и в промышленных целях, а также в сфере услуг, разными службами, обладая для этого необходимым для работы набором функций. Радиостанции Байкал-17
+                </description>
+            </offer>
+            <offer id="3611" available="true">
+                <url>http://www.radio-liga.ru/good/3611/BAYKAL-17</url>
+                <price>4032</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>723</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baikal/baikal17.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>БАЙКАЛ-17</name>
+                <description>
+БАЙКАЛ-17 UHFБАЙКАЛ-17 профессиональная портативная радиостанция, модель представляет новые технологии в области радиотехники.БАЙКАЛ-17 объединяет качество и функциональность, чтобы удовлетворить потребности в надежной радиосвязи и сделать более комфортной жизнь и работу пользователей.Радиостанция БАЙКАЛ-17 может применяться как коммерческих, так и в промышленных целях, а также в сфере услуг, разными службами, обладая для этого необходимым для работы набором функций.Радиостанции Байкал-17 не под
+                </description>
+            </offer>
+            <offer id="3612" available="true">
+                <url>http://www.radio-liga.ru/good/3612/BAYKAL-50</url>
+                <price>4352</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>723</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baikal/baikal50.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>БАЙКАЛ-50</name>
+                <description>
+БАЙКАЛ-50 VHF Портативная радиостанция БАЙКАЛ-50 мощная профессиональная радиостанция, её мощность составляет 8 Вт. БАЙКАЛ-50 обладает прочным пыле- влагозащищенном корпусом. При разработке БАЙКАЛ-50 инженеры увеличили мощность до 8 Вт, но не уменьшили при этом чувствительность радиостанции, что привело к значительному улучшению характеристик, в том числе и к увеличению дальности связи без особой потери качества. Радиостанция БАЙКАЛ-50 прекрасно подходит для эксплуатации в непростых условиях,
+                </description>
+            </offer>
+            <offer id="3613" available="true">
+                <url>http://www.radio-liga.ru/good/3613/BAYKAL-50</url>
+                <price>4672</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>723</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baikal/baikal50.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>БАЙКАЛ-50</name>
+                <description>
+БАЙКАЛ-50 UHFПортативная радиостанция БАЙКАЛ-50 мощная профессиональная радиостанция, её мощность составляет 8 Вт.БАЙКАЛ-50 обладает прочным пыле- влагозащищенном корпусом. При разработке БАЙКАЛ-50 инженеры увеличили мощность до 8 Вт, но не уменьшили при этом чувствительность радиостанции, что привело к значительному улучшению характеристик, в том числе и к увеличению дальности связи без особой потери качества.Радиостанция БАЙКАЛ-50 прекрасно подходит для эксплуатации в непростых условиях, напри
+                </description>
+            </offer>
+            <offer id="3614" available="true">
+                <url>http://www.radio-liga.ru/good/3614/BAYKAL-35</url>
+                <price>7680</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>723</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baikal/baikal35.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>БАЙКАЛ-35</name>
+                <description>
+БАЙКАЛ-35 UHFПортативная радиостанция БАЙКАЛ-35- новая цифровая безлицензионная радиостанция стандарта DMR, диапазон частот 400-470МГц, имеет защиту от внешних воздействий IP67. В комплекте аккумулятор емкостью 2200 мАч. Мощность передатчика 10 Вт.Цифро-аналоговая радиостанция БАЙКАЛ-35 современное решение для организаций. Она отличается не только повышенной до 10 Ватт мощностью передатчика, но и протоколом стандарта DMR, который подразумевает под собой двойное увеличение ёмкости системы - это о
+                </description>
+            </offer>
+            <offer id="3652" available="true">
+                <url>http://www.radio-liga.ru/good/3652/YAESU_FT-25R</url>
+                <price>6825</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>518</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu ft25.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FT-25R</name>
+                <description>
+YAESU FT-25RYAESU FT-25 - новая портативная одно-диапазонная от компании производителя радиостанций YAESU с диапазоном частот 136-174 МГц. YAESU FT-25 представляет собой упрощеннуюмодель YAESU FT-65, все параметры одинаковые, отличие состоит только в том, что у новой модели один диапазон.Радиостанция YAESU FT-25 пришла на замену двум известным моделям раций YAESU FT-250иYAESU FT-252. Рация имеет компактные небольшие размеры, ударопрочный стильный корпус, кнопку PTT, хорошо лежит в руке.Широкий д
+                </description>
+            </offer>
+            <offer id="3687" available="true">
+                <url>http://www.radio-liga.ru/good/3687/YAESU_FT-70DR</url>
+                <price>15730</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>518</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu_ft70dr.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FT-70DR</name>
+                <description>
+YAESU FT-70DRYAESU FT-70DR - современная двухдиапазонная (144/430 Мгц) цифро-аналоговая рация с передатчиком мощностью 5 Вт.В режиме цифровой модуляции уникальное качество звука достигается при помощи динамика мощностью 700мВ. Цифровой режим C4FM превосходит многие известные цифровые режимы по качеству звучания и за счет минимальных бит-ошибок. YAESU FT-70DR может работать с любыми аналоговыми радиостанциями, но в цифровом стандарте только c YAESU FT-1DR,YAESU FT-2DR, YAESU FTM-400DR, YAESU FTM-
+                </description>
+            </offer>
+            <offer id="3688" available="true">
+                <url>http://www.radio-liga.ru/good/3688/BAYKAL_15</url>
+                <price>4864</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>723</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baikal/baikal15-plus.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>БАЙКАЛ 15+</name>
+                <description>
+БАЙКАЛ 15+РадиостанцияБАЙКАЛ 15+ новинка 2018 года.Особенность, скрытый дисплей в корпусе радиостанции.Радиостанция БАЙКАЛ 15+ выполнена с учетом требований к оборудованию современных систем радиосвязи.Исключительная простота использования, высокое качество звука, мощный аккумулятор, ремонтопригодность.Радиостанция БАЙКАЛ 15+ отличное решение для различных сфер производства, строительства, частных охранных предприятий, лесных хозяйств.Основные характеристики радиостанцииБАЙКАЛ 15ПЛЮС:Функции ска
+                </description>
+            </offer>
+            <offer id="3689" available="true">
+                <url>http://www.radio-liga.ru/good/3689/YAESU_FT-2980R</url>
+                <price>14950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>519</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/YAESU FT2980.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FT-2980R</name>
+                <description>
+YAESU FT-2980RYAESU FT-2980R - 80-ваттный бесшумный трансивер с пассивным охлаждением. YAESU FT-2980R идеально подходит для безопасного использования во время передвижения. Доступны четыре уровня мощности: 80 Вт, 30 Вт, 10 Вт и 5 Вт. Надёжность устройства соответствует стандартуMIL-STD-810. Дисплей имеет 4 уровня подсветки. Данный трансивер функционально похож на YAESU FT-2900R, но имеет на 5 Вт большую мощность передатчика.YAESU FT-2980R поддерживает объединение нескольких репитеров в транспорт
+                </description>
+            </offer>
+            <offer id="3713" available="true">
+                <url>http://www.radio-liga.ru/good/3713/ALINCO_DJ-D15_</url>
+                <price>12200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>632</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alinco_dmr/ALINCO DJD15-45.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-D15</name>
+                <description>
+ALINCO DJ-D15ALINCO DJ-D15 - цифровая носимая DMR радиостанция из линейки моделей ALINCO.ALINCO DJ-D15 работает на частоте 136-174 МГц, содержит 256 каналов, поделенных на 16 зон, работает в аналоговом и цифровом режимах, поддерживает протоколы DMR Tier I и Tier II.Выходная мощность ALINCO DJ-D15 может варьироваться между 1Вт и 5Вт.Основные характеристики радиостанцииALINCO DJ-D15:DMR Tier I и Tier IIДиапазон частот: 136-174 МГцВыходная мощность: 5 Вт / 1 ВтКоличество каналов: 256Количество Зон:
+                </description>
+            </offer>
+            <offer id="3714" available="true">
+                <url>http://www.radio-liga.ru/good/3714/ALINCO_DJ-D45</url>
+                <price>12200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>632</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alinco_dmr/ALINCO DJD15-45.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-D45</name>
+                <description>
+ALINCO DJ-D45ALINCO DJ-D45 - цифровая носимая DMR радиостанция из линейки моделей ALINCO.ALINCO DJ-D45 работает на частоте 400-470 МГц, содержит 256 каналов, поделенных на 16 зон, работает в аналоговом и цифровом режимах, поддерживает протоколы DMR Tier I и Tier II.Выходная мощность ALINCO DJ-D45 может варьироваться между 1Вт и 5Вт.Основные характеристики радиостанцииALINCODJ-D45:DMR Tier I и Tier IIДиапазон частот: 400-470 МГцВыходная мощность: 5 Вт / 1 ВтКоличество каналов: 256Количество Зон:
+                </description>
+            </offer>
+            <offer id="3715" available="true">
+                <url>
+http://www.radio-liga.ru/good/3715/ALINCO_DJ-D17_GPS
+                </url>
+                <price>35200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>632</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/alinco_dmr/alinco_dj-d17gps.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>ALINCO DJ-D17 (GPS)</name>
+                <description>
+ALINCO DJ-D17(GPS)Радиостанция ALINCO DJ-D17(GPS) работает в диапазоне частот 136-174 МГц.Радиолюбителю на выбор даны 1024 каналов памяти, разбитых на 248 зон.Выходная мощность передатчика радиостанции ALINCO DJ-D17(GPS)5/1 Ватт.Модель ALINCO DJ-D17(GPS) имеет набор необходимых функций для работы даже в самых экстремальных условиях.ALINCO DJ-D17(GPS) будет незаменимым помощником для рыбаков, охотников, спасателей и всем тем, кто нуждается в качественной и надежной связи.В портативной радиостанци
+                </description>
+            </offer>
+            <offer id="3737" available="true">
+                <url>http://www.radio-liga.ru/good/3737/YAESU_FT-4V</url>
+                <price>5395</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>518</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/Yaesu FT-4VR.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FT-4V</name>
+                <description>
+YAESU FT-4VПроизводитель YAESUрад представить новую компактныю портативныю радиостанциюYAESUFT-4V.YAESUFT-4V двухдиапазонная компактная радиостанция (52х90х30 мм) имеющию выходную мощность до 5 Вт, благодаря интеграции высокоэффективной технологии Bridged Transless (BTL).YAESUFT-4V портативная радиостанция имеет 36-мм динамики, которые выдают до 1 Вт мощного и четкого звука.YAESU FT-4V имеет надежный пакет свойств и характеристик. Две настраиваемые пользователем разные частоты (одна для RX друга
+                </description>
+            </offer>
+            <offer id="3738" available="true">
+                <url>http://www.radio-liga.ru/good/3738/YAESU_FT-4X</url>
+                <price>6240</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>518</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/Yaesu FT-4XR.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FT-4X</name>
+                <description>
+YAESU FT-4XПроизводитель YAESUрад представить новую компактныю портативныю радиостанцию YAESU FT-4X. YAESU FT-4X двухдиапазонная компактная радиостанция (52х90х30 мм) имеющию выходную мощность до 5 Вт, благодаря интеграции высокоэффективной технологии Bridged Transless (BTL). YAESU FT-4X портативная радиостанция имеет 36-мм динамики, которые выдают до 1 Вт мощного и четкого звука.YAESU FT-4X имеет надежный пакет свойств и характеристик. Две настраиваемые пользователем разные частоты (одна для RX
+                </description>
+            </offer>
+            <offer id="3739" available="true">
+                <url>http://www.radio-liga.ru/good/3739/YAESU_FTA-450L</url>
+                <price>20280</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>527</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu fta450l.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FTA-450L</name>
+                <description>
+YAESU FTA-450LАвиационная радиостанция YAESU FTA-450L - бюджетная версия уже знакомых вам раций YAESU FTA-550L и YAESU FTA-750L. YAESU FTA-450L оснащена такой же простой системой управления и большим дисплеем. Мощный звуковой динамик 800 мВт гарантирует отличное общение.YAESU FTA-450L может хранить до 200 каналов памяти с возможностью обозначения 15 алфавитно-цифровыми символами. Благодаря возможности использования до 15 буквенно-цифровых символовдля имени YAESU FTA-450L позволяет лучше описать
+                </description>
+            </offer>
+            <offer id="3740" available="true">
+                <url>http://www.radio-liga.ru/good/3740/YAESU_FTA-250L</url>
+                <price>15925</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>527</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/yaesu fta250l.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FTA-250L</name>
+                <description>
+YAESU FTA-250LYAESU FTA-250L доступная по цене, компактная (COMM ONLY) авиационная радиостанция Airband.Корпус YAESU FTA-250L из поликарбоната с водонепроницаемым покрытием IPX5 для использования в суровых условиях с дождем и брызгами.Громкий аудиовыход 700 мВт радиостанции гарантирует, что радиовызов не будет пропущен даже в шумных условиях.YAESU FTA-250L узкий диапазон, с большой емкостью для памяти,до 250 каналов.YAESU FTA-250L запрограммирована с эксклюзивной системой Yaesu E2O Easy to Opera
+                </description>
+            </offer>
+            <offer id="3741" available="true">
+                <url>
+http://www.radio-liga.ru/good/3741/YAESU_FTM-3207DR
+                </url>
+                <price>16185</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>519</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/Yaesu FTM-3207DR.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FTM-3207DR</name>
+                <description>
+YAESU FTM-3207DRАвтомобильная радиостанция YASEU FTM-3207DR передает и принимает сигнал как в цифровом, так и в аналоговом режимах (C4FM и FM).Рация YASEU FTM-3207DR отличается большой выходной мощностью до 55 Вт и динамиком мощностью 3 Вт, который обеспечивает громкий и чистый звук даже при высоком шуме.Диапазоны частот радиостанции YASEU FTM-3207DR: 420470 МГц.YASEU FTM-3207DR отличается встроенной фирменной системой AMS, которая сама переводит трансивер в цифровой или аналоговый режим в зав
+                </description>
+            </offer>
+            <offer id="3742" available="true">
+                <url>
+http://www.radio-liga.ru/good/3742/YAESU_FTM-7250DR
+                </url>
+                <price>24505</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>519</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/yaesu/Yaesu FTM-7250 .jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>YAESU FTM-7250DR</name>
+                <description>
+YAESU FTM-7250DRПроизводительYAESUрады объявить о выпуске новой модели автомобильной радиостанции YAESU FTM-7250DR.YAESU FTM-7250DR представляет собой компактный прочный C4FM/FM 144/430MГц двух-диапазонную радиостанцию 50Вт,имеющий усовершенствованные функции YAESU,разработанные для платформы System Fusion II.Смело можно ожидать, что YAESU FTM-7250DR сможет обеспечить надежную длительную работу, так как он имеет большой радиатор FACC YAESU (уникальная система охлаждения). Фронтальный 3 Вт динами
+                </description>
+            </offer>
+            <offer id="3744" available="true">
+                <url>http://www.radio-liga.ru/good/3744/BAOFENG_DM-1801</url>
+                <price>4160</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>603</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/baofeng/baofengdm1801.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>BAOFENG DM-1801</name>
+                <description>
+BAOFENG DM-1801BAOFENG DM-1801 TIER-2 -портативная аналогово-цифровая радиостанция,новое поколение радиостанций от всемирно известной компании BAOFENG!BAOFENG DM-1801 TIER-2 полностью поддерживает работу в цифровом режиме DMRTIER 2, что позволяет ей полноценно работать в цифровых сетях с ретрансляторами в двух тайм слотах. Также в цифровом режиме доступенрежим шифрования, что позволит скрыть ваши переговоры от прослушивания.Радиостанция BAOFENG DM-1801 TIER-2 обладает уникальным набором функций
+                </description>
+            </offer>
+            <offer id="3745" available="true">
+                <url>
+http://www.radio-liga.ru/good/3745/PRESIDENT_BILL_ASC
+                </url>
+                <price>5760</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>571</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/cibi/president/president billl.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>PRESIDENT BILL ASC</name>
+                <description>
+PRESIDENT BILL ASCPRESIDENT BILL ASC автомобильная радиостанция,занимает особое место среди Сi-Вi радиостанций PRESIDENT благодаря своему удобному размеру.Особенностью этой PRESIDENT BILL ASC является ультракомпактность в сочетании с традиционным качеством компании PRESIDENT.PRESIDENT BILL ASC работает в диапазоне частот от 26.960 до 27.405 МГц.На небольшом дисплее с подсветкой отображается полезная информация, кнопки, расположенные в уголках панели радиостанции, удобны в управлении . С помощью
+                </description>
+            </offer>
+            <offer id="3746" available="true">
+                <url>
+http://www.radio-liga.ru/good/3746/PRESIDENT_RONALD_1012M_
+                </url>
+                <price>14500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>571</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/cibi/president/President- RONALD.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>PRESIDENT RONALD 10/12M</name>
+                <description>
+PRESIDENT RONALD 10/12MРадиостанция PRESIDENT RONALD 10/12M это одна из самых продвинутых моделей автомобильных радиостанций на сегодня. С ней Вы получите максимальный функционал!Приятный и эргономичный дизайн, различные цвета подсветки, а также целый ряд полезных функций делает автомобильную радиостанцию PRESIDENT RONALD 10/12M востребованной как среди дальнобойщиков, так и среди таксистов, грузо- и пассажироперевозчиков, любителей активного отдыха и простых граждан.В радиостанции PRESIDENT RON
+                </description>
+            </offer>
+            <offer id="3747" available="true">
+                <url>
+http://www.radio-liga.ru/good/3747/PRESIDENT_THOMAS_ASC
+                </url>
+                <price>16600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>571</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/cibi/president/president thomas asc.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>PRESIDENT THOMAS ASC</name>
+                <description>
+PRESIDENT THOMAS ASCАвтомобильная радиостанция PRESIDENT THOMAS ASCвыполнена по самым высоким европейским стандартам качества и отличается богатым функционалом.Встроенные фильтры ANL, Noise Blanker и HI-CUT обеспечат качественный и комфортный приём голоса Вашего собеседника при работе в эфире.Широкий частотный диапазон версии MOD25,615-30,105 МГцпозволит общаться со многими корреспондентами.Дополнительной приятной особенностью радиостанции является её повышенная выходная мощность -до 8 Ватт FMв
+                </description>
+            </offer>
+            <offer id="3758" available="true">
+                <url>http://www.radio-liga.ru/good/3758/SOYUZ-1</url>
+                <price>1290</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>740</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/soyuz/soyuz-1.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СОЮЗ-1</name>
+                <description>
+СОЮЗ-1Радиостанция СОЮЗ-1 - многофункциональная рация для использования без лицензии.СОЮЗ-1 является отличным выбором для любительского использования, а также для применения в профессиональных сферах деятельности.СОЮЗ 1 - отличный выбор для работников торговых центров, кафе, ресторанов, участников массовых мероприятий, сотрудников охраны, склада.СОЮЗ-1 подходит для активного отдыха, походов в лес,туризма,спорта,охоты или рыбалки..Портативная радиостанция СОЮЗ-1 обеспечит долгое время работы без
+                </description>
+            </offer>
+            <offer id="3759" available="true">
+                <url>http://www.radio-liga.ru/good/3759/SOYUZ-2_krasnyy</url>
+                <price>1850</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>740</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/soyuz/soyuz-2kr.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СОЮЗ-2 красный</name>
+                <description>
+СОЮЗ-2 красныйСОЮЗ-2 яркая, многофункциональная компактная радиостанция.СОЮЗ-2 красный станет прекрасным помощником для любителей активного образа жизни, туризма, охоты и рыбалки, а также и в повседневной жизни.Радиостанция СОЮЗ-2 красный ограничивает время передачи, не позволяя надолго занимать один и тот же канал.Благодаря функции экстренного вызова "ALARM" пользователь радиостанции СОЮЗ-2 может подать сигнал стихийного бедствия во время чрезвычайной ситуации.СОЮЗ-2 обаладает высокой громкость
+                </description>
+            </offer>
+            <offer id="3760" available="true">
+                <url>http://www.radio-liga.ru/good/3760/SOYUZ-2_siniy</url>
+                <price>1850</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>740</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/soyuz/soyuz-2s.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СОЮЗ-2 синий</name>
+                <description>
+СОЮЗ-2 синийСОЮЗ-2 яркая, многофункциональная компактная радиостанция.СОЮЗ-2 синий станет прекрасным помощником для любителей активного образа жизни, туризма, охоты и рыбалки, а также и в повседневной жизни.Радиостанция СОЮЗ-2 синий ограничивает время передачи, не позволяя надолго занимать один и тот же канал.Благодаря функции экстренного вызова "ALARM" пользователь радиостанции СОЮЗ-2 может подать сигнал стихийного бедствия во время чрезвычайной ситуации.СОЮЗ-2 обаладает высокой громкостью, отл
+                </description>
+            </offer>
+            <offer id="3761" available="true">
+                <url>http://www.radio-liga.ru/good/3761/SOYUZ-2_chernyy</url>
+                <price>1850</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>740</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/soyuz/soyuz-2ch.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СОЮЗ-2 черный</name>
+                <description>
+СОЮЗ-2 черныйСОЮЗ-2 яркая, многофункциональная компактная радиостанция.СОЮЗ-2 черный станет прекрасным помощником для любителей активного образа жизни, туризма, охоты и рыбалки, а также и в повседневной жизни.Радиостанция СОЮЗ-2 черный ограничивает время передачи, не позволяя надолго занимать один и тот же канал.Благодаря функции экстренного вызова "ALARM" пользователь радиостанции СОЮЗ-2 может подать сигнал стихийного бедствия во время чрезвычайной ситуации.СОЮЗ-2 обаладает высокой громкостью,
+                </description>
+            </offer>
+            <offer id="3762" available="true">
+                <url>http://www.radio-liga.ru/good/3762/SOYUZ-3</url>
+                <price>1950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>740</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/soyuz/soyuz-3.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СОЮЗ-3</name>
+                <description>
+СОЮЗ-3Радиостанция СОЮЗ-3 обладаетэргономичным корпусом, который удобно лежит в руке.Функция ТОТ - таймер, ограничивающий время пользователя в эфире. Значение установлено по умолчанию 180 секунд, при необходимости возможно изменение значения или отключение функции. Постоянная передача может привести к перегреву устройства, занятому эфиру, а также быстрой разрядке аккумулятора.Рация СОЮЗ-3 оборудована регулируемой системой шумоподавления, которая обеспечивает чистый звук и качественную связь. Под
+                </description>
+            </offer>
+            <offer id="3763" available="true">
+                <url>http://www.radio-liga.ru/good/3763/SOYUZ-4</url>
+                <price>3950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>740</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/soyuz/soyuz-4.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СОЮЗ-4</name>
+                <description>
+СОЮЗ-4Портативная радиостанция СОЮЗ-4 кардинально отличается от других радиостанций СОЮЗ, начиная обновленным дизайном и заканчивая расширением функционала.СОЮЗ-4 приобрел новый стильный новый дизайн в черном и оранжевых цветах. На передней панели радиостанции СОЮЗ-4 расположен дисплей, на который выводится вся рабочая информация, включая выбранный диапазон частот, состояние заряда аккумулятора, уровень мощности сигнала и активированные функции. Под дисплеем расположена решетка динамика выходной
+                </description>
+            </offer>
+            <offer id="3764" available="true">
+                <url>
+http://www.radio-liga.ru/good/3764/SOYUZ-2h2_krasnyy
+                </url>
+                <price>3700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>740</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/soyuz/soyuz-2kr2.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СОЮЗ-2х2 красный</name>
+                <description>
+СОЮЗ-2х2 красныйСОЮЗ-2 яркая, многофункциональная компактная радиостанция.СОЮЗ-2 красный станет прекрасным помощником для любителей активного образа жизни, туризма, охоты и рыбалки, а также и в повседневной жизни.Радиостанция СОЮЗ-2 красный ограничивает время передачи, не позволяя надолго занимать один и тот же канал.Благодаря функции экстренного вызова "ALARM" пользователь радиостанции СОЮЗ-2 может подать сигнал стихийного бедствия во время чрезвычайной ситуации.СОЮЗ-2 обаладает высокой громкос
+                </description>
+            </offer>
+            <offer id="3765" available="true">
+                <url>http://www.radio-liga.ru/good/3765/SOYUZ-2h2_siniy</url>
+                <price>3700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>740</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/soyuz/soyuz-2s2.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СОЮЗ-2х2 синий</name>
+                <description>
+СОЮЗ-2х2 синийСОЮЗ-2 яркая, многофункциональная компактная радиостанция.СОЮЗ-2 синий станет прекрасным помощником для любителей активного образа жизни, туризма, охоты и рыбалки, а также и в повседневной жизни.Радиостанция СОЮЗ-2 синий ограничивает время передачи, не позволяя надолго занимать один и тот же канал.Благодаря функции экстренного вызова "ALARM" пользователь радиостанции СОЮЗ-2 может подать сигнал стихийного бедствия во время чрезвычайной ситуации.СОЮЗ-2 обаладает высокой громкостью, о
+                </description>
+            </offer>
+            <offer id="3766" available="true">
+                <url>
+http://www.radio-liga.ru/good/3766/SOYUZ-2h2_chernyy
+                </url>
+                <price>3700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>740</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/soyuz/soyuz-2ch2.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>СОЮЗ-2х2 черный</name>
+                <description>
+СОЮЗ-2х2 черныйСОЮЗ-2 яркая, многофункциональная компактная радиостанция.СОЮЗ-2 черный станет прекрасным помощником для любителей активного образа жизни, туризма, охоты и рыбалки, а также и в повседневной жизни.Радиостанция СОЮЗ-2 черный ограничивает время передачи, не позволяя надолго занимать один и тот же канал.Благодаря функции экстренного вызова "ALARM" пользователь радиостанции СОЮЗ-2 может подать сигнал стихийного бедствия во время чрезвычайной ситуации.СОЮЗ-2 обаладает высокой громкостью
+                </description>
+            </offer>
+            <offer id="3767" available="true">
+                <url>http://www.radio-liga.ru/good/3767/TYT_TC-777</url>
+                <price>1490</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>626</categoryId>
+                <picture>
+http://www.radio-liga.ru/source/catalog/tyt tc-777.jpg
+                </picture>
+                <delivery>true</delivery>
+                <local_delivery_cost>300</local_delivery_cost>
+                <name>TYT TC-777</name>
+                <description>
+TYT TC-777Радиостанция TYT TC 777 является самой лучшей из популярных бюджетных раций. Она была выпущена в 2018 году. Профессиональная рация TYT TC 777 качественно сочетает в себе компактные размеры, легкий вес и достойный радиус действия.Корпус из высококачественных прочных материалов и соответствие с стандартами, делают радиостанцию TYT TC 777 незаменимой в любом складском помещении,охранный обьект для строительства,спортивные соревнования.Портативная радиостанция TYT TC 777 обеспечит долг
+                </description>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
